@@ -1,0 +1,71 @@
+Selected Columns:
+      Name Department  Marks
+0   Aarav        CSE     88
+1    Diya        CSE     76
+2   Rohan       AIML     91
+3  Ananya       AIML     67
+4   Kabir        CSE     84
+5  Ishita        ECE     72
+6   Arjun       AIML     95
+7   Meera        CSE     81
+8  Vivaan        ECE     69
+9    Sana       AIML     89
+
+Selected Rows (first 3):
+    Student_ID   Name Department  Marks  Attendance     City
+0         101  Aarav        CSE     88          92   Kanpur
+1         102   Diya        CSE     76          85  Lucknow
+2         103  Rohan       AIML     91          96   Kanpur
+
+Students with Marks >= 85:
+    Student_ID   Name Department  Marks  Attendance    City
+0         101  Aarav        CSE     88          92  Kanpur
+2         103  Rohan       AIML     91          96  Kanpur
+6         107  Arjun       AIML     95          98   Delhi
+9         110   Sana       AIML     89          94   Delhi
+
+Students with Marks >= 80 AND Attendance >= 90:
+    Student_ID   Name Department  Marks  Attendance    City
+0         101  Aarav        CSE     88          92  Kanpur
+2         103  Rohan       AIML     91          96  Kanpur
+4         105  Kabir        CSE     84          90  Kanpur
+6         107  Arjun       AIML     95          98   Delhi
+9         110   Sana       AIML     89          94   Delhi
+
+Sorted by Marks - Ascending:
+    Student_ID    Name Department  Marks  Attendance     City
+3         104  Ananya       AIML     67          78    Delhi
+8         109  Vivaan        ECE     69          75     Agra
+5         106  Ishita        ECE     72          82  Lucknow
+1         102    Diya        CSE     76          85  Lucknow
+7         108   Meera        CSE     81          88   Kanpur
+4         105   Kabir        CSE     84          90   Kanpur
+0         101   Aarav        CSE     88          92   Kanpur
+9         110    Sana       AIML     89          94    Delhi
+2         103   Rohan       AIML     91          96   Kanpur
+6         107   Arjun       AIML     95          98    Delhi
+
+Sorted by Marks - Descending:
+    Student_ID    Name Department  Marks  Attendance     City
+6         107   Arjun       AIML     95          98    Delhi
+2         103   Rohan       AIML     91          96   Kanpur
+9         110    Sana       AIML     89          94    Delhi
+0         101   Aarav        CSE     88          92   Kanpur
+4         105   Kabir        CSE     84          90   Kanpur
+7         108   Meera        CSE     81          88   Kanpur
+1         102    Diya        CSE     76          85  Lucknow
+5         106  Ishita        ECE     72          82  Lucknow
+8         109  Vivaan        ECE     69          75     Agra
+3         104  Ananya       AIML     67          78    Delhi
+
+[stderr]
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 720, in _warm_feature_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 704, in _warm_collaboration_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/generated/interface/models.py", line 32317, in hydrate_crdt_from_proto
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/remote.py", line 749, in __call__
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/client.py", line 150, in call
+artifact_tool.rpc.client.RemoteError: hydrateCrdtFromProto requires an empty collaborative document.

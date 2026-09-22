@@ -1,0 +1,44 @@
+DATASET BEFORE HANDLING MISSING VALUES
+      Name  Marks  Attendance Department
+0   Aarav   88.0        92.0        CSE
+1    Diya    NaN        85.0        CSE
+2   Rohan   91.0         NaN       AIML
+3  Ananya   67.0        78.0        NaN
+4   Kabir    NaN        90.0        CSE
+5  Ishita   72.0         NaN        ECE
+
+Missing values by column:
+ Name          0
+Marks         2
+Attendance    2
+Department    1
+dtype: int64
+
+After removing rows containing missing values:
+     Name  Marks  Attendance Department
+0  Aarav   88.0        92.0        CSE
+
+After filling missing values:
+      Name  Marks  Attendance Department
+0   Aarav   88.0       92.00        CSE
+1    Diya   79.5       85.00        CSE
+2   Rohan   91.0       86.25       AIML
+3  Ananya   67.0       78.00        CSE
+4   Kabir   79.5       90.00        CSE
+5  Ishita   72.0       86.25        ECE
+
+Why is handling missing data important?
+Missing values can distort statistics, reduce model quality, and cause errors.
+Appropriate removal or imputation improves data completeness and analytical reliability.
+
+[stderr]
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 720, in _warm_feature_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 704, in _warm_collaboration_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/generated/interface/models.py", line 32317, in hydrate_crdt_from_proto
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/remote.py", line 749, in __call__
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/client.py", line 150, in call
+artifact_tool.rpc.client.RemoteError: hydrateCrdtFromProto requires an empty collaborative document.

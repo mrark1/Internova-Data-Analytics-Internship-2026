@@ -1,0 +1,52 @@
+MERGED DATAFRAME
+    Order_ID   Product Region  Sales  Quantity   Category
+0      1001    Laptop  North  65000         1   Computer
+1      1002     Mouse  South   1200         3  Accessory
+2      1003  Keyboard  North   2500         2  Accessory
+3      1004   Monitor   East  18000         2    Display
+4      1005    Laptop   West  62000         1   Computer
+5      1006     Mouse  South   1500         4  Accessory
+6      1007  Keyboard   East   2700         2  Accessory
+7      1008   Monitor   West  19500         2    Display
+8      1009    Laptop  North  68000         1   Computer
+9      1010     Mouse   East   1400         5  Accessory
+
+CONCATENATED DATAFRAME
+    Order_ID   Product Region  Sales  Quantity
+0      1001    Laptop  North  65000         1
+1      1002     Mouse  South   1200         3
+2      1003  Keyboard  North   2500         2
+3      1004   Monitor   East  18000         2
+4      1005    Laptop   West  62000         1
+5      1006     Mouse  South   1500         4
+6      1007  Keyboard   East   2700         2
+7      1008   Monitor   West  19500         2
+8      1009    Laptop  North  68000         1
+9      1010     Mouse   East   1400         5
+
+GROUPBY SUMMARY
+   Region  Total_Sales  Average_Sales  Order_Count  Maximum_Sale
+0   East        22100    7366.666667            3         18000
+1  North       135500   45166.666667            3         68000
+2  South         2700    1350.000000            2          1500
+3   West        81500   40750.000000            2         62000
+
+PIVOT TABLE
+ Product  Keyboard  Laptop  Monitor  Mouse
+Region                                   
+East         2700       0    18000   1400
+North        2500  133000        0      0
+South           0       0        0   2700
+West            0   62000    19500      0
+
+[stderr]
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 720, in _warm_feature_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 704, in _warm_collaboration_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/generated/interface/models.py", line 32317, in hydrate_crdt_from_proto
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/remote.py", line 749, in __call__
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/client.py", line 150, in call
+artifact_tool.rpc.client.RemoteError: hydrateCrdtFromProto requires an empty collaborative document.

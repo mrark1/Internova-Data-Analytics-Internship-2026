@@ -1,0 +1,66 @@
+First 5 Rows:
+    Student_ID    Name Department  Marks  Attendance     City
+0         101   Aarav        CSE     88          92   Kanpur
+1         102    Diya        CSE     76          85  Lucknow
+2         103   Rohan       AIML     91          96   Kanpur
+3         104  Ananya       AIML     67          78    Delhi
+4         105   Kabir        CSE     84          90   Kanpur
+
+Last 5 Rows:
+    Student_ID    Name Department  Marks  Attendance     City
+5         106  Ishita        ECE     72          82  Lucknow
+6         107   Arjun       AIML     95          98    Delhi
+7         108   Meera        CSE     81          88   Kanpur
+8         109  Vivaan        ECE     69          75     Agra
+9         110    Sana       AIML     89          94    Delhi
+
+Number of Rows and Columns: (10, 6)
+
+Column Names: ['Student_ID', 'Name', 'Department', 'Marks', 'Attendance', 'City']
+
+Data Types:
+ Student_ID     int64
+Name          object
+Department    object
+Marks          int64
+Attendance     int64
+City          object
+dtype: object
+
+INFO
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 10 entries, 0 to 9
+Data columns (total 6 columns):
+ #   Column      Non-Null Count  Dtype 
+---  ------      --------------  ----- 
+ 0   Student_ID  10 non-null     int64 
+ 1   Name        10 non-null     object
+ 2   Department  10 non-null     object
+ 3   Marks       10 non-null     int64 
+ 4   Attendance  10 non-null     int64 
+ 5   City        10 non-null     object
+dtypes: int64(3), object(3)
+memory usage: 612.0+ bytes
+
+DESCRIPTIVE STATISTICS
+        Student_ID      Marks  Attendance
+count    10.00000  10.000000   10.000000
+mean    105.50000  81.200000   87.800000
+std       3.02765   9.795691    7.699928
+min     101.00000  67.000000   75.000000
+25%     103.25000  73.000000   82.750000
+50%     105.50000  82.500000   89.000000
+75%     107.75000  88.750000   93.500000
+max     110.00000  95.000000   98.000000
+
+[stderr]
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 720, in _warm_feature_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 704, in _warm_collaboration_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/generated/interface/models.py", line 32317, in hydrate_crdt_from_proto
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/remote.py", line 749, in __call__
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/client.py", line 150, in call
+artifact_tool.rpc.client.RemoteError: hydrateCrdtFromProto requires an empty collaborative document.

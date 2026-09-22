@@ -1,0 +1,38 @@
+Pandas Series:
+ A    85
+B    91
+C    78
+D    88
+E    95
+dtype: int64
+
+Original DataFrame:
+      Name Department  Marks
+0   Aarav        CSE     88
+1    Diya        CSE     76
+2   Rohan       AIML     91
+3  Ananya       AIML     67
+4   Kabir        CSE     84
+
+Column Names: ['Name', 'Department', 'Marks']
+Index: RangeIndex(start=0, stop=5, step=1)
+
+Updated DataFrame:
+      Name Department  Marks Result
+0   Aarav        CSE     88   Pass
+1    Diya        CSE     76   Pass
+2   Rohan       AIML     91   Pass
+3  Ananya       AIML     67   Pass
+4   Kabir        CSE     84   Pass
+
+[stderr]
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 720, in _warm_feature_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 704, in _warm_collaboration_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/generated/interface/models.py", line 32317, in hydrate_crdt_from_proto
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/remote.py", line 749, in __call__
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/client.py", line 150, in call
+artifact_tool.rpc.client.RemoteError: hydrateCrdtFromProto requires an empty collaborative document.

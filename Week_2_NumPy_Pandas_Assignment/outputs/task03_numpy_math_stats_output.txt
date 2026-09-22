@@ -1,0 +1,27 @@
+Dataset: [12. 18. 25. 30. 22. 35. 40. 28. 15. 32.]
+
+Mathematical Operations
+Addition: [14. 21. 30. 36. 24. 40. 44. 35. 18. 36.]
+Subtraction: [10. 15. 20. 24. 20. 30. 36. 21. 12. 28.]
+Multiplication: [ 24.  54. 125. 180.  44. 175. 160. 196.  45. 128.]
+Division: [ 6.  6.  5.  5. 11.  7. 10.  4.  5.  8.]
+
+Statistical Operations
+Mean: 25.7
+Median: 26.5
+Minimum: 12.0
+Maximum: 40.0
+Standard Deviation: 8.54
+Sum: 257.0
+
+[stderr]
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 720, in _warm_feature_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 704, in _warm_collaboration_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/generated/interface/models.py", line 32317, in hydrate_crdt_from_proto
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/remote.py", line 749, in __call__
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/client.py", line 150, in call
+artifact_tool.rpc.client.RemoteError: hydrateCrdtFromProto requires an empty collaborative document.

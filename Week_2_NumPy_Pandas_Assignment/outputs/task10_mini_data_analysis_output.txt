@@ -1,0 +1,79 @@
+1. DATASET LOADED
+   Student_ID    Name Department  Marks  Attendance     City
+0         101   Aarav        CSE     88          92   Kanpur
+1         102    Diya        CSE     76          85  Lucknow
+2         103   Rohan       AIML     91          96   Kanpur
+3         104  Ananya       AIML     67          78    Delhi
+4         105   Kabir        CSE     84          90   Kanpur
+5         106  Ishita        ECE     72          82  Lucknow
+6         107   Arjun       AIML     95          98    Delhi
+7         108   Meera        CSE     81          88   Kanpur
+8         109  Vivaan        ECE     69          75     Agra
+9         110    Sana       AIML     89          94    Delhi
+
+2. DATA INSPECTION
+Shape: (10, 6)
+Columns: ['Student_ID', 'Name', 'Department', 'Marks', 'Attendance', 'City']
+Missing values:
+ Student_ID    0
+Name          0
+Department    0
+Marks         0
+Attendance    0
+City          0
+dtype: int64
+
+3. FILTERED STUDENTS (Marks >= 85)
+    Name Department  Marks  Attendance
+0  Aarav        CSE     88          92
+2  Rohan       AIML     91          96
+6  Arjun       AIML     95          98
+9   Sana       AIML     89          94
+
+4. SORTED BY MARKS (DESCENDING)
+     Name  Marks
+6   Arjun     95
+2   Rohan     91
+9    Sana     89
+0   Aarav     88
+4   Kabir     84
+7   Meera     81
+1    Diya     76
+5  Ishita     72
+8  Vivaan     69
+3  Ananya     67
+
+5. GROUPBY DEPARTMENT
+            Average_Marks  Average_Attendance  Student_Count
+Department                                                  
+AIML                85.50               91.50              4
+CSE                 82.25               88.75              4
+ECE                 70.50               78.50              2
+
+6. PIVOT TABLE
+City        Agra  Delhi  Kanpur  Lucknow
+Department                              
+AIML         0.0  83.67   91.00      0.0
+CSE          0.0   0.00   84.33     76.0
+ECE         69.0   0.00    0.00     72.0
+
+7. KEY INSIGHTS
+Overall average marks: 81.2
+Highest marks: Arjun - 95
+Lowest marks: Ananya - 67
+Department with highest average marks: AIML
+Students scoring 85 or above: 4
+
+Cleaned dataset exported to: /mnt/data/Week_2_NumPy_Pandas_Assignment/outputs/mini_project_cleaned.csv
+
+[stderr]
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 720, in _warm_feature_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 704, in _warm_collaboration_flows
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/generated/interface/models.py", line 32317, in hydrate_crdt_from_proto
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/remote.py", line 749, in __call__
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/client.py", line 150, in call
+artifact_tool.rpc.client.RemoteError: hydrateCrdtFromProto requires an empty collaborative document.
