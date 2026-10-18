@@ -1,0 +1,151 @@
+CustomerID,CustomerName,Segment,Region,City
+C1001,Arjun Reddy,Home Office,West,Mumbai
+C1002,Arjun Das,Corporate,North,Jaipur
+C1003,Neha Verma,Consumer,West,Pune
+C1004,Diya Khan,Corporate,West,Pune
+C1005,Priya Singh,Corporate,South,Hyderabad
+C1006,Vivaan Gupta,Corporate,West,Pune
+C1007,Vivaan Nair,Home Office,South,Hyderabad
+C1008,Sneha Patel,Consumer,North,Lucknow
+C1009,Meera Mishra,Corporate,North,Lucknow
+C1010,Anjali Joshi,Consumer,North,Lucknow
+C1011,Priya Verma,Consumer,North,Lucknow
+C1012,Rohan Nair,Unknown,East,Patna
+C1013,Vivaan Gupta,Corporate,East,Patna
+C1014,Rahul Joshi,Corporate,South,Bengaluru
+C1015,Rahul Singh,Consumer,North,Jaipur
+C1016,Sneha Reddy,Corporate,East,Bhubaneswar
+C1017,Neha Das,Consumer,South,Bengaluru
+C1018,Aditya Iyer,Corporate,East,Patna
+C1019,Riya Iyer,Corporate,West,Mumbai
+C1020,Riya Iyer,Consumer,North,Kanpur
+C1021,Kabir Patel,Home Office,North,Kanpur
+C1022,Rohan Joshi,Consumer,North,Lucknow
+C1023,Aditya Das,Corporate,East,Bhubaneswar
+C1024,Arjun Reddy,Unknown,South,Hyderabad
+C1025,Aditya Verma,Corporate,North,Delhi
+C1026,Priya Joshi,Consumer,North,Delhi
+C1027,Priya Reddy,Consumer,East,Kolkata
+C1028,Ananya Iyer,Consumer,East,Patna
+C1029,Ananya Nair,Home Office,North,Lucknow
+C1030,Arjun Khan,Corporate,North,Jaipur
+C1031,Sneha Reddy,Consumer,East,Kolkata
+C1032,Vivaan Verma,Consumer,West,Pune
+C1033,Rahul Das,Consumer,North,Lucknow
+C1034,Pooja Reddy,Consumer,East,Bhubaneswar
+C1035,Aditya Iyer,Corporate,East,Patna
+C1036,Vivaan Khan,Consumer,South,Bengaluru
+C1037,Arjun Verma,Consumer,North,Kanpur
+C1038,Riya Gupta,Corporate,North,Jaipur
+C1039,Karan Iyer,Consumer,South,Bengaluru
+C1040,Anjali Reddy,Consumer,South,Hyderabad
+C1041,Arjun Reddy,Home Office,South,Bengaluru
+C1042,Riya Khan,Consumer,South,Bengaluru
+C1043,Rahul Reddy,Consumer,South,Chennai
+C1044,Rahul Das,Corporate,West,Mumbai
+C1045,Arjun Mishra,Consumer,North,Kanpur
+C1046,Arjun Nair,Consumer,East,Bhubaneswar
+C1047,Anjali Singh,Consumer,West,Mumbai
+C1048,Riya Gupta,Unknown,South,Hyderabad
+C1049,Rohan Nair,Consumer,North,Delhi
+C1050,Neha Nair,Consumer,North,Jaipur
+C1051,Kabir Reddy,Home Office,North,Kanpur
+C1052,Pooja Joshi,Home Office,East,Bhubaneswar
+C1053,Priya Gupta,Corporate,South,Chennai
+C1054,Arjun Joshi,Corporate,South,Bengaluru
+C1055,Aarav Nair,Consumer,North,Kanpur
+C1056,Aditya Joshi,Consumer,West,Mumbai
+C1057,Meera Joshi,Consumer,East,Kolkata
+C1058,Ananya Gupta,Consumer,West,Ahmedabad
+C1059,Vikram Sharma,Consumer,North,Lucknow
+C1060,Aditya Nair,Consumer,East,Kolkata
+C1061,Sneha Das,Consumer,East,Bhubaneswar
+C1062,Rahul Verma,Consumer,East,Bhubaneswar
+C1063,Riya Nair,Consumer,North,Jaipur
+C1064,Ananya Das,Home Office,South,Chennai
+C1065,Anjali Nair,Consumer,North,Delhi
+C1066,Riya Joshi,Consumer,East,Kolkata
+C1067,Aarav Nair,Corporate,South,Bengaluru
+C1068,Vikram Reddy,Corporate,West,Pune
+C1069,Arjun Verma,Corporate,North,Lucknow
+C1070,Sneha Patel,Corporate,North,Delhi
+C1071,Sneha Iyer,Consumer,West,Mumbai
+C1072,Diya Verma,Home Office,South,Chennai
+C1073,Neha Singh,Consumer,South,Hyderabad
+C1074,Meera Nair,Unknown,West,Mumbai
+C1075,Diya Verma,Corporate,East,Kolkata
+C1076,Ananya Joshi,Consumer,North,Jaipur
+C1077,Riya Verma,Consumer,North,Delhi
+C1078,Aarav Singh,Consumer,North,Kanpur
+C1079,Neha Mishra,Consumer,East,Bhubaneswar
+C1080,Ananya Mishra,Home Office,South,Hyderabad
+C1081,Priya Singh,Consumer,North,Kanpur
+C1082,Rohan Nair,Consumer,East,Patna
+C1083,Vikram Das,Consumer,South,Bengaluru
+C1084,Rahul Patel,Consumer,North,Jaipur
+C1085,Rahul Joshi,Home Office,West,Mumbai
+C1086,Rahul Iyer,Corporate,West,Pune
+C1087,Rahul Das,Consumer,North,Jaipur
+C1088,Pooja Khan,Corporate,South,Chennai
+C1089,Vivaan Verma,Consumer,North,Kanpur
+C1090,Saanvi Patel,Consumer,North,Lucknow
+C1091,Saanvi Patel,Corporate,North,Kanpur
+C1092,Kabir Mishra,Consumer,West,Ahmedabad
+C1093,Priya Das,Corporate,North,Lucknow
+C1094,Arjun Das,Corporate,West,Pune
+C1095,Ishaan Mishra,Consumer,North,Delhi
+C1096,Arjun Nair,Corporate,West,Mumbai
+C1097,Karan Mishra,Consumer,North,Delhi
+C1098,Vikram Nair,Corporate,North,Jaipur
+C1099,Saanvi Khan,Corporate,East,Bhubaneswar
+C1100,Vikram Mishra,Consumer,North,Delhi
+C1101,Ishaan Singh,Corporate,East,Kolkata
+C1102,Riya Mishra,Corporate,South,Chennai
+C1103,Neha Reddy,Corporate,West,Mumbai
+C1104,Vikram Khan,Consumer,North,Kanpur
+C1105,Meera Reddy,Corporate,East,Kolkata
+C1106,Arjun Mishra,Corporate,North,Jaipur
+C1107,Sneha Patel,Consumer,North,Lucknow
+C1108,Ishaan Verma,Consumer,North,Jaipur
+C1109,Aditya Mishra,Corporate,South,Hyderabad
+C1110,Vikram Iyer,Consumer,West,Pune
+C1111,Aarav Mishra,Home Office,West,Pune
+C1112,Aditya Joshi,Consumer,West,Pune
+C1113,Aarav Mishra,Consumer,East,Kolkata
+C1114,Priya Reddy,Consumer,West,Mumbai
+C1115,Aarav Gupta,Home Office,South,Hyderabad
+C1116,Sneha Patel,Home Office,North,Jaipur
+C1117,Sneha Joshi,Consumer,North,Delhi
+C1118,Anjali Verma,Consumer,East,Patna
+C1119,Pooja Sharma,Consumer,West,Pune
+C1120,Aditya Khan,Home Office,West,Mumbai
+C1121,Vikram Sharma,Consumer,East,Kolkata
+C1122,Vivaan Nair,Consumer,East,Bhubaneswar
+C1123,Rohan Sharma,Corporate,West,Ahmedabad
+C1124,Vikram Joshi,Unknown,West,Ahmedabad
+C1125,Priya Singh,Consumer,North,Delhi
+C1126,Neha Das,Home Office,East,Patna
+C1127,Rahul Mishra,Consumer,North,Kanpur
+C1128,Kabir Das,Corporate,East,Bhubaneswar
+C1129,Vivaan Iyer,Consumer,North,Kanpur
+C1130,Pooja Patel,Consumer,East,Kolkata
+C1131,Diya Nair,Consumer,North,Delhi
+C1132,Sneha Joshi,Consumer,East,Patna
+C1133,Neha Gupta,Corporate,West,Pune
+C1134,Arjun Reddy,Consumer,East,Bhubaneswar
+C1135,Arjun Patel,Consumer,South,Bengaluru
+C1136,Aditya Nair,Consumer,North,Lucknow
+C1137,Sneha Iyer,Corporate,South,Hyderabad
+C1138,Saanvi Joshi,Corporate,South,Bengaluru
+C1139,Vikram Sharma,Consumer,North,Lucknow
+C1140,Priya Verma,Corporate,North,Delhi
+C1141,Neha Iyer,Corporate,East,Patna
+C1142,Ananya Patel,Unknown,West,Pune
+C1143,Neha Patel,Consumer,East,Bhubaneswar
+C1144,Meera Verma,Consumer,West,Ahmedabad
+C1145,Kabir Khan,Consumer,South,Chennai
+C1146,Rahul Sharma,Consumer,South,Bengaluru
+C1147,Rahul Sharma,Consumer,West,Pune
+C1148,Ananya Mishra,Corporate,North,Lucknow
+C1149,Saanvi Khan,Home Office,North,Lucknow
+C1150,Diya Singh,Consumer,North,Delhi

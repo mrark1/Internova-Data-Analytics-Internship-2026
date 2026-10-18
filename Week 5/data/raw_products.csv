@@ -1,0 +1,20 @@
+ProductID,ProductName,Category,UnitPrice,UnitCost
+P101,Wireless Mouse,Electronics,650,455.0
+P102,Bluetooth Speaker,Electronics,1800,1296.0
+P103,USB-C Charger,Electronics,900,585.0
+P104,Smart Watch,Electronics,4500,3510.0
+P105,Headphones,Electronics,2200,1606.0
+P106,Power Bank,Electronics,1500,1050.0
+P107,Office Chair,Furniture,5200,4264.0
+P108,Study Table,Furniture,6800,5712.0
+P109,Bookshelf,Furniture,4200,3360.0
+P110,Floor Lamp,Furniture,1900,1292.0
+P111,Notebook Pack,Stationery,240,132.0
+P112,Gel Pen Box,Stationery,180,90.0
+P113,Desk Organizer,Stationery,520,312.0
+P114,Planner Diary,Stationery,350,203.0
+P115,Marker Set,Stationery,300,168.0
+P116,Cotton T-Shirt,Clothing,599,371.38
+P117,Denim Jeans,Clothing,1799,1259.3
+P118,Hoodie,Clothing,1499,1004.33
+P119,Sports Shoes,Clothing,2599,1949.25

@@ -1,0 +1,41 @@
+// ============================================================
+// Week 5 - Power BI | DAX (Calendar table, calculated columns, measures)
+// ============================================================
+
+// ---------- Calculated TABLE : Calendar (Modeling > New table) ----------
+Calendar =
+ADDCOLUMNS (
+    CALENDAR ( DATE ( 2024, 1, 1 ), DATE ( 2025, 12, 31 ) ),
+    "Year",    YEAR ( [Date] ),
+    "MonthNo", MONTH ( [Date] ),
+    "Month",   FORMAT ( [Date], "MMM" )
+)
+// Then: Table tools > Mark as date table (Date column) and sort Month by MonthNo.
+
+// ---------- Calculated COLUMNS in the Sales table ----------
+Sales Amount = Sales[Quantity] * RELATED ( Products[UnitPrice] ) * ( 1 - Sales[Discount] )
+Cost Amount  = Sales[Quantity] * RELATED ( Products[UnitCost] )
+Profit       = Sales[Sales Amount] - Sales[Cost Amount]
+Discount Band =
+SWITCH ( TRUE (),
+    Sales[Discount] = 0,     "0% (No discount)",
+    Sales[Discount] <= 0.05, "5%",
+    Sales[Discount] <= 0.10, "10%",
+    Sales[Discount] <= 0.15, "15%",
+    "20%" )
+
+// ---------- MEASURES (create in a table called "_Measures" or in Sales) ----------
+Total Sales      = SUM ( Sales[Sales Amount] )
+Total Profit     = SUM ( Sales[Profit] )
+Profit Margin %  = DIVIDE ( [Total Profit], [Total Sales] )
+Total Orders     = COUNTROWS ( Sales )
+Total Units Sold = SUM ( Sales[Quantity] )
+Avg Order Value  = AVERAGE ( Sales[Sales Amount] )
+Max Order Value  = MAX ( Sales[Sales Amount] )
+Min Order Value  = MIN ( Sales[Sales Amount] )
+Unique Customers = DISTINCTCOUNT ( Sales[CustomerID] )
+
+Sales % of Total = DIVIDE ( [Total Sales], CALCULATE ( [Total Sales], ALLSELECTED () ) )
+
+Sales LY         = CALCULATE ( [Total Sales], SAMEPERIODLASTYEAR ( 'Calendar'[Date] ) )
+YoY Growth %     = DIVIDE ( [Total Sales] - [Sales LY], [Sales LY] )
