@@ -1,0 +1,1204 @@
+Order_ID,Order_Date,Region,Category,Product,Quantity,Unit_Price,Discount,Sales,Profit,Customer_Segment,Payment_Method
+ORD-00001,2025-05-22,West,Office Supplies,Printer Paper,3,30.13,0.0,90.39,21.66,Consumer,UPI
+ORD-00002,2025-10-01,East,Office Supplies,Printer Paper,1,37.47,0.1,33.72,13.24,Small Business,Card
+ORD-00003,2025-09-05,South,Home & Kitchen,Storage Box,2,84.4,0.1,151.92,76.03,Corporate,Cash
+ORD-00004,2024-10-09,West,Technology,Headphones,4,371.52,0.2,1188.86,482.1,Consumer,UPI
+ORD-00005,2025-03-02,East,Office Supplies,Notebook,2,36.57,0.05,69.48,23.8,Consumer,Bank Transfer
+ORD-00006,2024-01-25,Central,Office Supplies,Printer Paper,5,9.1,0.05,43.23,14.34,Consumer,Card
+ORD-00007,2025-05-28,Central,Home & Kitchen,Water Bottle,4,99.77,0.05,379.13,98.25,Consumer,UPI
+ORD-00008,2025-06-20,North,Home & Kitchen,Coffee Mug,5,6.39,0.1,28.75,14.78,Small Business,Card
+ORD-00009,2024-01-23,Central,Home & Kitchen,Storage Box,1,62.42,0.0,62.42,24.97,Consumer,Card
+ORD-00010,2025-09-19,North,Office Supplies,Notebook,3,29.05,0.05,82.79,28.48,Small Business,UPI
+ORD-00011,2024-11-27,South,Technology,Keyboard,4,419.4,0.2,1342.08,361.31,Consumer,UPI
+ORD-00012,2025-07-16,Central,Technology,Wireless Mouse,2,81.87,0.15,139.18,49.0,Consumer,Card
+ORD-00013,2025-05-21,Central,Home & Kitchen,Storage Box,4,30.83,0.1,110.99,49.4,Consumer,Bank Transfer
+ORD-00014,2025-05-02,East,Furniture,Filing Cabinet,1,236.6,0.05,224.77,55.53,Consumer,Cash
+ORD-00015,2025-09-24,West,Furniture,Office Chair,4,647.6,0.05,2460.88,1164.38,Consumer,Bank Transfer
+ORD-00016,2024-01-14,Central,Technology,Headphones,3,222.46,0.15,567.27,159.34,Corporate,UPI
+ORD-00017,2024-12-04,East,Technology,Keyboard,2,195.53,0.1,351.95,166.01,Small Business,Bank Transfer
+ORD-00018,2024-01-02,South,Technology,Monitor,2,65.78,0.15,111.83,44.9,Corporate,Card
+ORD-00019,2025-11-07,West,Office Supplies,Printer Paper,3,5.45,0.0,16.35,5.3,Corporate,UPI
+ORD-00020,2025-12-09,East,Furniture,Desk,5,141.02,0.25,528.83,174.6,Corporate,Cash
+ORD-00021,2025-04-01,West,Furniture,Filing Cabinet,4,150.12,0.05,570.46,225.67,Consumer,Card
+ORD-00022,2025-09-26,West,Furniture,Filing Cabinet,1,666.88,0.05,633.54,283.26,Corporate,UPI
+ORD-00023,2024-04-22,South,Home & Kitchen,Organizer,5,53.2,0.25,199.5,93.05,Consumer,UPI
+ORD-00024,2025-06-14,,Office Supplies,Stapler,3,22.65,0.0,67.95,16.01,Small Business,Card
+ORD-00025,2024-11-30,West,Furniture,Desk,1,219.87,0.1,197.88,75.86,Corporate,Card
+ORD-00026,2024-04-23,Central,Office Supplies,Printer Paper,1,17.21,0.0,17.21,8.12,Consumer,Cash
+ORD-00027,2024-02-15,North,Home & Kitchen,Water Bottle,1,115.85,0.05,110.06,30.74,Corporate,UPI
+ORD-00028,2024-06-28,North,Home & Kitchen,Desk Lamp,3,75.38,0.1,203.53,99.84,Small Business,Card
+ORD-00029,2024-09-07,West,Home & Kitchen,Water Bottle,6,9.37,0.0,56.22,24.58,Consumer,Cash
+ORD-00030,2024-03-27,West,Home & Kitchen,Storage Box,1,72.02,0.05,68.42,25.53,Consumer,Bank Transfer
+ORD-00031,2024-10-22,Central,Furniture,Office Chair,3,49.82,0.05,141.99,73.32,Consumer,UPI
+ORD-00032,2025-07-24,West,Office Supplies,Notebook,3,27.24,0.15,69.46,16.44,Corporate,Card
+ORD-00033,2025-05-23,East,Furniture,Standing Desk,2,325.73,0.15,553.74,194.37,Corporate,UPI
+ORD-00034,2025-07-11,North,Home & Kitchen,Desk Lamp,3,103.84,0.05,295.94,142.98,Consumer,UPI
+ORD-00035,2025-05-21,South,Furniture,Desk,1,631.56,0.15,536.83,172.95,Corporate,Cash
+ORD-00036,2024-05-07,North,Home & Kitchen,Coffee Mug,3,79.94,0.15,203.85,72.62,Consumer,Cash
+ORD-00037,2024-05-13,Central,Furniture,Bookshelf,3,149.29,0.2,358.3,138.92,Consumer,Cash
+ORD-00038,2024-01-20,East,Furniture,Bookshelf,1,336.53,0.15,286.05,122.49,Corporate,Card
+ORD-00039,2025-10-18,North,Technology,USB-C Hub,1,408.28,0.15,347.04,150.17,Consumer,Card
+ORD-00040,2025-08-21,South,Home & Kitchen,Coffee Mug,1,119.78,0.1,107.8,36.69,Consumer,Bank Transfer
+ORD-00041,2025-01-03,North,Technology,Monitor,2,177.18,0.2,283.49,111.19,Consumer,UPI
+ORD-00042,2024-04-09,South,Office Supplies,Pens Pack,2,24.39,0.15,41.46,16.6,Small Business,UPI
+ORD-00043,2025-12-16,Central,Home & Kitchen,Coffee Mug,2,14.98,0.0,29.96,8.29,Consumer,Card
+ORD-00044,2024-02-20,North,Furniture,Bookshelf,3,426.29,0.0,1278.87,470.3,Corporate,Bank Transfer
+ORD-00045,2025-01-05,North,Office Supplies,Notebook,2,41.13,0.2,65.81,24.16,Corporate,Cash
+ORD-00046,2024-03-28,West,Furniture,Bookshelf,2,227.57,0.1,409.63,195.17,Corporate,UPI
+ORD-00047,2025-02-23,South,Technology,Webcam,2,79.52,0.0,159.04,52.16,Consumer,Card
+ORD-00048,2024-04-14,North,Office Supplies,Folders,2,4.93,0.15,8.38,2.71,Consumer,Cash
+ORD-00049,2025-02-17,North,Furniture,Office Chair,4,510.66,0.05,1940.51,830.57,Small Business,UPI
+ORD-00050,2024-10-26,East,Office Supplies,Notebook,2,24.52,0.25,36.78,11.87,Consumer,UPI
+ORD-00051,2024-05-11,North,Furniture,Bookshelf,1,598.57,0.0,598.57,193.67,Corporate,Card
+ORD-00052,2025-09-12,East,Furniture,Desk,1,103.76,0.1,93.38,27.24,Consumer,Cash
+ORD-00053,2024-01-21,North,Technology,Monitor,2,86.09,0.1,154.96,62.51,Consumer,UPI
+ORD-00054,2024-12-21,Central,Technology,Monitor,2,239.66,0.05,455.35,163.79,Consumer,Card
+ORD-00055,2024-01-29,North,Home & Kitchen,Organizer,3,68.21,0.15,173.94,67.5,Small Business,Card
+ORD-00056,2025-09-06,Central,Office Supplies,Printer Paper,6,10.58,0.1,57.13,24.6,Small Business,UPI
+ORD-00057,2024-10-06,Central,Office Supplies,Folders,1,35.03,1.4,31.53,13.93,Corporate,Card
+ORD-00058,2024-06-30,West,Technology,Keyboard,3,76.1,0.05,216.88,78.11,Small Business,Cash
+ORD-00059,2025-03-26,North,Furniture,Bookshelf,2,285.6,0.1,514.08,264.23,Consumer,Cash
+ORD-00060,2024-01-17,North,Home & Kitchen,Water Bottle,3,86.35,0.15,220.19,110.34,Consumer,Card
+ORD-00061,2025-02-26,Central,Home & Kitchen,Coffee Mug,3,8.05,0.0,24.15,8.6,Consumer,Cash
+ORD-00062,2025-05-31,South,Home & Kitchen,Coffee Mug,1,11.21,0.1,10.09,3.02,Consumer,UPI
+ORD-00063,2024-05-28,Central,Home & Kitchen,Organizer,2,44.84,0.2,71.74,20.86,Consumer,UPI
+ORD-00064,2024-02-08,East,Technology,Keyboard,3,212.39,0.2,509.74,155.2,Consumer,Card
+ORD-00065,2025-05-21,North,Home & Kitchen,Organizer,2,62.84,0.0,125.68,36.48,Corporate,Bank Transfer
+ORD-00066,2024-12-23,West,Technology,Monitor,1,272.68,0.0,272.68,66.54,Consumer,Card
+ORD-00067,2025-08-21,West,Office Supplies,Printer Paper,5,10.16,0.1,45.72,16.42,Small Business,UPI
+ORD-00068,2025-02-06,North,Furniture,Desk,3,294.77,0.0,884.31,282.71,Small Business,Cash
+ORD-00069,2025-12-29,West,Home & Kitchen,Organizer,1,97.81,0.2,78.25,20.06,Small Business,UPI
+ORD-00070,2025-03-24,North,Technology,Keyboard,1,97.36,0.2,77.89,22.15,Consumer,Cash
+ORD-00071,2025-07-22,North,Furniture,Bookshelf,3,107.64,0.15,274.48,104.36,Consumer,UPI
+ORD-00072,2025-04-25,North,Office Supplies,Notebook,2,24.33,0.15,41.36,13.62,Consumer,Bank Transfer
+ORD-00073,2024-10-29,South,Home & Kitchen,Coffee Mug,5,119.83,0.0,599.15,223.08,Corporate,Cash
+ORD-00074,2025-03-17,Central,Furniture,Bookshelf,3,411.69,0.05,1173.32,365.19,Corporate,Card
+ORD-00075,2025-05-24,South,Technology,Wireless Mouse,1,287.8,0.0,287.8,122.83,Small Business,Bank Transfer
+ORD-00076,2025-09-23,West,Technology,USB-C Hub,4,226.31,0.1,814.72,280.58,Consumer,UPI
+ORD-00077,2024-05-21,South,Technology,Keyboard,2,79.31,0.15,134.83,44.64,Consumer,UPI
+ORD-00078,2025-01-08,South,Home & Kitchen,Coffee Mug,2,49.02,0.1,88.24,39.59,Consumer,Bank Transfer
+ORD-00079,2024-01-25,North,Technology,Webcam,6,296.53,0.15,1512.3,432.7,Consumer,Card
+ORD-00080,2025-07-11,East,Furniture,Desk,1,161.78,0.0,161.78,59.18,Corporate,UPI
+ORD-00081,2025-01-01,South,Office Supplies,Notebook,6,30.89,0.0,185.34,55.94,Corporate,Bank Transfer
+ORD-00082,2024-03-20,Central,Home & Kitchen,Storage Box,3,7.77,0.15,19.81,7.42,Consumer,Cash
+ORD-00083,2024-02-19,West,Furniture,Bookshelf,1,365.16,0.15,310.39,125.12,Consumer,UPI
+ORD-00084,2024-02-13,Central,Furniture,Filing Cabinet,2,256.66,0.1,461.99,208.71,Small Business,Card
+ORD-00085,2024-10-29,West,Home & Kitchen,Water Bottle,2,53.45,0.0,106.9,26.93,Consumer,UPI
+ORD-00086,2025-11-04,South,Office Supplies,Folders,5,18.71,0.0,93.55,20.8,Corporate,Card
+ORD-00087,2024-02-09,West,Home & Kitchen,Storage Box,2,100.4,0.2,160.64,82.12,Consumer,UPI
+ORD-00088,2024-09-15,Central,Home & Kitchen,Coffee Mug,4,71.7,0.25,215.1,72.05,Consumer,Card
+ORD-00089,2024-01-26,North,Office Supplies,Pens Pack,1,10.09,0.1,9.08,3.53,Consumer,Bank Transfer
+ORD-00090,2025-04-11,North,Office Supplies,Printer Paper,2,3.64,0.15,6.19,2.16,Corporate,UPI
+ORD-00091,2024-03-07,Central,Office Supplies,Notebook,5,29.05,0.05,137.99,38.47,Corporate,Cash
+ORD-00092,2024-02-02,West,Office Supplies,Printer Paper,5,15.37,0.1,69.16,29.64,Consumer,Bank Transfer
+ORD-00093,2025-12-19,East,Office Supplies,Notebook,1,10.73,0.1,9.66,4.01,Small Business,UPI
+ORD-00094,2024-09-01,West,Home & Kitchen,Storage Box,3,12.42,0.05,35.4,11.08,Corporate,Card
+ORD-00095,2025-09-21,North,Office Supplies,Folders,5,12.13,0.05,57.62,13.04,Consumer,UPI
+ORD-00096,2025-05-29,Central,Technology,Monitor,2,184.24,0.05,350.06,102.25,Consumer,Bank Transfer
+ORD-00097,2024-11-16,South,Home & Kitchen,Organizer,3,86.79,0.2,208.3,87.43,Corporate,Bank Transfer
+ORD-00098,2025-06-26,South,Office Supplies,Stapler,3,4.25,0.0,12.75,5.03,Consumer,Card
+ORD-00099,2025-04-01,East,Furniture,Office Chair,1,489.07,0.15,415.71,173.45,,Card
+ORD-00100,2025-09-05,North,Office Supplies,Folders,3,39.57,0.25,89.03,41.53,Consumer,UPI
+ORD-00101,2025-05-16,Central,Office Supplies,Pens Pack,2,11.81,0.1,21.26,8.53,Consumer,Card
+ORD-00102,2025-01-06,West,Technology,Keyboard,1,233.4,0.05,221.73,99.62,Consumer,UPI
+ORD-00103,2025-04-16,Central,Home & Kitchen,Water Bottle,3,39.74,0.1,107.3,44.18,Small Business,Cash
+ORD-00104,2025-08-01,North,Furniture,Standing Desk,2,499.2,0.05,948.48,449.3,Small Business,Card
+ORD-00105,2025-09-06,East,Technology,Webcam,1,349.64,0.0,349.64,124.74,Corporate,Bank Transfer
+ORD-00106,2024-12-09,South,Office Supplies,Folders,2,39.01,0.15,66.32,25.54,Corporate,Card
+ORD-00107,2025-02-10,Central,Office Supplies,Pens Pack,3,34.13,0.1,92.15,23.28,Small Business,Cash
+ORD-00108,2025-12-26,South,Office Supplies,Folders,2,5.97,0.0,11.94,4.76,Consumer,Bank Transfer
+ORD-00109,2025-09-07,East,Technology,USB-C Hub,2,102.32,0.0,204.64,83.49,Corporate,Card
+ORD-00110,2025-02-14,East,Furniture,Desk,1,545.06,0.15,463.3,231.68,Consumer,UPI
+ORD-00111,2025-11-29,South,Office Supplies,Stapler,1,37.71,0.0,37.71,16.31,Corporate,Card
+ORD-00112,2025-09-13,West,Office Supplies,Printer Paper,3,36.93,0.05,105.25,24.82,Consumer,Cash
+ORD-00113,2025-01-02,North,Office Supplies,Pens Pack,5,35.32,0.0,176.6,49.71,Consumer,UPI
+ORD-00114,2025-01-30,South,Home & Kitchen,Storage Box,1,30.52,0.15,25.94,8.2,Consumer,Card
+ORD-00115,2025-02-27,Central,Furniture,Standing Desk,5,699.85,0.0,3499.25,828.46,Corporate,Card
+ORD-00116,2025-08-08,West,Technology,Wireless Mouse,6,414.66,0.05,2363.56,791.27,Small Business,Card
+ORD-00117,2024-02-06,South,Furniture,Desk,2,401.38,0.0,802.76,339.78,Consumer,Card
+ORD-00118,2024-02-13,North,Home & Kitchen,Desk Lamp,1,62.44,0.0,62.44,29.61,Corporate,Card
+ORD-00119,2025-03-13,South,Technology,Webcam,1,294.26,0.15,250.12,62.18,Consumer,UPI
+ORD-00120,2025-02-11,East,Home & Kitchen,Desk Lamp,1,38.59,0.15,32.8,8.62,Consumer,UPI
+ORD-00121,2025-05-15,South,Office Supplies,Printer Paper,1,9.54,0.15,8.11,2.77,Consumer,UPI
+ORD-00122,2024-06-29,North,Office Supplies,Folders,3,19.61,0.1,52.95,12.19,Consumer,Bank Transfer
+ORD-00123,2025-06-16,East,Furniture,Desk,2,192.23,0.2,307.57,148.55,Consumer,UPI
+ORD-00124,2025-10-04,North,Furniture,Office Chair,3,446.24,0.15,1137.91,434.73,Consumer,Cash
+ORD-00125,2024-12-02,West,Office Supplies,Pens Pack,1,44.59,0.0,44.59,12.21,Consumer,UPI
+ORD-00126,2025-07-17,West,Technology,Monitor,1,109.27,0.25,81.95,32.58,Consumer,UPI
+ORD-00127,2024-08-11,West,Technology,Webcam,5,147.55,0.15,627.09,297.64,Corporate,UPI
+ORD-00128,2025-06-22,South,Furniture,Desk,3,63.56,0.15,162.08,74.08,Small Business,UPI
+ORD-00129,2025-06-30,South,Office Supplies,Notebook,1,26.43,0.1,23.79,11.53,Consumer,Card
+ORD-00130,2024-01-07,South,Home & Kitchen,Desk Lamp,3,68.99,0.15,175.92,57.1,Consumer,Cash
+ORD-00131,2025-08-04,East,Office Supplies,Printer Paper,3,44.13,0.15,112.53,48.28,Consumer,UPI
+ORD-00132,2025-12-04,West,Home & Kitchen,Water Bottle,1,95.95,0.0,95.95,40.85,Small Business,UPI
+ORD-00133,2025-04-27,West,Office Supplies,Printer Paper,5,27.43,0.0,137.15,41.89,Consumer,UPI
+ORD-00134,2025-07-29,Central,Technology,Webcam,2,171.31,0.1,308.36,155.22,Corporate,Card
+ORD-00135,2024-10-31,West,Furniture,Standing Desk,2,682.43,0.1,1228.37,364.99,Corporate,Card
+ORD-00136,2025-02-19,North,Technology,Monitor,2,304.19,0.15,517.12,247.0,Consumer,Card
+ORD-00137,2025-03-19,South,Office Supplies,Printer Paper,3,11.05,0.15,28.18,10.35,Consumer,UPI
+ORD-00138,2025-06-06,North,Furniture,Desk,4,492.97,0.2,1577.5,572.31,Consumer,Card
+ORD-00139,2025-12-17,North,Furniture,Standing Desk,2,103.56,0.0,207.12,92.92,Consumer,UPI
+ORD-00140,2024-04-07,East,Furniture,Office Chair,3,240.13,0.0,720.39,174.37,Consumer,Cash
+ORD-00141,2024-03-23,South,Home & Kitchen,Water Bottle,4,16.07,0.25,48.21,16.21,Consumer,UPI
+ORD-00142,2024-06-07,Central,Office Supplies,Pens Pack,4,40.35,0.15,137.19,65.42,Small Business,UPI
+ORD-00143,2024-02-01,North,Office Supplies,Pens Pack,2,21.84,0.0,43.68,20.07,Corporate,UPI
+ORD-00144,2025-04-05,South,Technology,Webcam,1,379.21,0.05,360.25,97.32,Consumer,UPI
+ORD-00145,2025-04-16,West,Home & Kitchen,Desk Lamp,2,61.38,0.15,104.35,47.16,Consumer,Cash
+ORD-00146,2024-09-28,East,Office Supplies,Stapler,6,21.54,0.05,122.78,55.16,Consumer,UPI
+ORD-00147,2025-11-21,Central,Technology,Headphones,4,352.57,0.15,1198.74,593.17,Corporate,Card
+ORD-00148,2024-03-09,South,Office Supplies,Stapler,1,18.67,0.0,18.67,7.31,Corporate,Cash
+ORD-00149,2025-01-27,East,Office Supplies,Notebook,4,27.74,0.15,94.32,40.32,Consumer,Bank Transfer
+ORD-00150,2024-03-18,South,Office Supplies,Folders,1,21.97,0.05,20.87,4.7,Small Business,Card
+ORD-00151,2024-11-30,North,Furniture,Filing Cabinet,4,254.55,0.1,916.38,236.54,Consumer,UPI
+ORD-00152,2025-09-06,East,Furniture,Filing Cabinet,2,192.77,0.0,385.54,174.37,Small Business,Cash
+ORD-00153,2024-09-15,North,Home & Kitchen,Coffee Mug,4,82.91,0.1,298.48,87.83,Small Business,Card
+ORD-00154,2024-12-18,East,Technology,Monitor,6,443.92,0.2,2130.82,936.49,Consumer,UPI
+ORD-00155,2024-09-19,North,Technology,Headphones,6,372.33,0.0,2233.98,938.69,Consumer,Bank Transfer
+ORD-00156,2025-06-23,,Office Supplies,Folders,4,8.05,0.05,30.59,9.88,Consumer,UPI
+ORD-00157,2024-08-17,East,Technology,Wireless Mouse,2,437.6,0.2,700.16,255.62,Consumer,Card
+ORD-00158,2025-10-30,North,Home & Kitchen,Organizer,1,32.59,0.1,29.33,14.97,Corporate,UPI
+ORD-00159,2025-04-13,East,Furniture,Desk,2,,0.05,500.59,111.17,Consumer,Card
+ORD-00160,2024-07-10,West,Office Supplies,Notebook,5,9.95,0.0,49.75,19.95,Consumer,UPI
+ORD-00161,2025-11-18,Central,Office Supplies,Printer Paper,1,36.14,0.2,28.91,12.08,Consumer,Card
+ORD-00162,2025-12-13,North,Home & Kitchen,Organizer,2,90.69,0.0,181.38,70.78,Consumer,UPI
+ORD-00163,2024-07-11,North,Technology,Monitor,4,311.65,0.15,1059.61,322.37,Consumer,Bank Transfer
+ORD-00164,2025-02-03,,Office Supplies,Pens Pack,1,37.38,0.1,33.64,12.34,Small Business,Card
+ORD-00165,2025-08-14,Central,Home & Kitchen,Coffee Mug,6,100.51,0.15,512.6,147.18,Consumer,UPI
+ORD-00166,2025-08-01,West,Office Supplies,Folders,2,18.86,0.05,35.83,16.14,Consumer,Card
+ORD-00167,2025-04-30,North,Home & Kitchen,Coffee Mug,1,28.61,0.15,24.32,11.36,Consumer,Bank Transfer
+ORD-00168,2024-04-05,East,Furniture,Filing Cabinet,3,72.84,0.1,196.67,95.1,Small Business,Cash
+ORD-00169,2024-08-05,South,Technology,Headphones,4,336.98,0.25,1010.94,282.47,Small Business,Cash
+ORD-00170,2024-11-23,Central,Home & Kitchen,Desk Lamp,1,24.45,0.0,24.45,8.64,Small Business,UPI
+ORD-00171,2025-11-30,North,Office Supplies,Notebook,3,12.52,0.0,37.56,10.92,Corporate,Card
+ORD-00172,2025-12-28,East,Technology,Monitor,6,220.78,0.15,1125.98,247.91,Consumer,Card
+ORD-00173,2025-06-25,East,Furniture,Office Chair,3,533.14,0.05,1519.45,478.46,Consumer,UPI
+ORD-00174,2025-07-30,South,Office Supplies,Folders,6,14.78,0.1,79.81,38.97,Corporate,Bank Transfer
+ORD-00175,2024-07-01,Central,Office Supplies,Stapler,3,39.52,0.0,118.56,55.07,Corporate,Card
+ORD-00176,2025-08-11,West,Technology,Wireless Mouse,2,333.26,0.15,566.54,146.19,Corporate,UPI
+ORD-00177,2024-08-23,East,Home & Kitchen,Desk Lamp,2,10.77,0.15,18.31,4.16,Corporate,UPI
+ORD-00178,2025-12-27,North,Technology,Monitor,4,408.04,0.05,1550.55,542.81,Corporate,Cash
+ORD-00179,2025-03-27,Central,Office Supplies,Notebook,2,8.44,0.2,13.5,3.93,Small Business,Cash
+ORD-00180,2024-10-15,Central,Office Supplies,Notebook,2,43.48,0.0,86.96,26.8,Small Business,Card
+ORD-00181,2025-08-11,West,Furniture,Office Chair,1,129.99,0.05,123.49,38.08,Small Business,Card
+ORD-00182,2025-05-31,South,Furniture,Filing Cabinet,1,699.99,0.0,699.99,329.23,Consumer,Bank Transfer
+ORD-00183,2024-10-20,Central,Technology,Monitor,5,385.78,0.15,1639.56,530.71,Consumer,UPI
+ORD-00184,2025-06-02,South,Technology,USB-C Hub,2,88.14,0.25,132.21,57.9,Consumer,Card
+ORD-00185,2024-02-03,West,Home & Kitchen,Storage Box,2,73.47,0.2,117.55,52.4,Consumer,Card
+ORD-00186,2024-12-26,North,Furniture,Bookshelf,2,506.65,0.05,962.63,258.09,Consumer,Cash
+ORD-00187,2024-06-03,East,Home & Kitchen,Organizer,2,98.51,0.15,167.47,67.24,Consumer,Card
+ORD-00188,2025-08-16,East,Furniture,Filing Cabinet,2,82.09,0.0,164.18,56.3,Consumer,Card
+ORD-00189,2025-08-28,South,Technology,Keyboard,2,371.92,0.05,706.65,173.33,Corporate,UPI
+ORD-00190,2024-11-22,North,Technology,Webcam,1,310.19,0.0,310.19,155.26,Corporate,UPI
+ORD-00191,2025-05-12,South,Office Supplies,Folders,1,29.95,0.0,29.95,13.71,Consumer,UPI
+ORD-00192,2025-12-21,Central,Technology,Headphones,5,115.98,0.0,579.9,283.27,Consumer,UPI
+ORD-00193,2024-02-23,West,Office Supplies,Pens Pack,5,11.15,0.0,55.75,23.65,Consumer,Card
+ORD-00194,2024-05-04,East,Furniture,Standing Desk,2,442.16,0.05,840.1,302.67,Consumer,UPI
+ORD-00195,2025-12-11,East,Technology,Keyboard,1,335.24,0.15,284.95,72.54,Corporate,Card
+ORD-00196,2025-10-23,East,Office Supplies,Folders,6,28.1,0.05,160.17,65.83,Small Business,Card
+ORD-00197,2024-12-16,West,Office Supplies,Printer Paper,1,42.92,0.0,42.92,14.62,Small Business,Cash
+ORD-00198,2024-07-24,South,Home & Kitchen,Storage Box,3,113.24,0.05,322.73,136.48,Consumer,Cash
+ORD-00199,2025-12-20,East,Office Supplies,Folders,2,35.86,0.25,53.79,19.81,Small Business,Card
+ORD-00200,2025-06-21,East,Office Supplies,Stapler,1,44.01,0.1,39.61,19.25,Corporate,Cash
+ORD-00201,2025-06-20,West,Office Supplies,Printer Paper,3,19.8,0.1,53.46,25.56,Small Business,UPI
+ORD-00202,2024-06-19,South,Office Supplies,Stapler,3,13.24,0.05,37.73,11.67,Consumer,Bank Transfer
+ORD-00203,2024-08-22,South,Home & Kitchen,Desk Lamp,1,7.41,0.15,6.3,3.04,Corporate,UPI
+ORD-00204,2025-12-26,South,Home & Kitchen,Coffee Mug,1,56.05,0.0,56.05,25.44,Consumer,Bank Transfer
+ORD-00205,2024-09-19,West,Furniture,Office Chair,2,506.52,0.2,810.43,400.38,Consumer,Cash
+ORD-00206,2025-06-24,Central,Office Supplies,Stapler,5,42.65,0.15,181.26,89.09,Consumer,Bank Transfer
+ORD-00207,2025-11-30,West,Office Supplies,Pens Pack,3,20.84,0.15,53.14,12.46,Consumer,UPI
+ORD-00208,2025-07-06,East,Technology,USB-C Hub,4,123.95,0.0,495.8,215.21,Small Business,UPI
+ORD-00209,2024-04-26,South,Office Supplies,Printer Paper,1,27.19,0.1,24.47,6.63,Corporate,Card
+ORD-00210,2025-03-28,Central,Home & Kitchen,Water Bottle,3,21.12,0.05,60.19,28.45,Consumer,Card
+ORD-00211,2024-04-10,West,Technology,Headphones,2,356.69,0.05,677.71,294.05,Corporate,Card
+ORD-00212,2024-08-18,East,Technology,Headphones,6,184.63,0.15,941.61,433.82,Consumer,Bank Transfer
+ORD-00213,2024-06-30,South,Office Supplies,Notebook,1,17.2,0.1,15.48,4.43,Consumer,UPI
+ORD-00214,2024-02-10,South,Furniture,Standing Desk,6,559.47,0.05,3188.98,1482.56,Consumer,Card
+ORD-00215,2024-02-01,East,Technology,Headphones,3,303.07,0.25,681.91,313.38,Small Business,Bank Transfer
+ORD-00216,2025-10-11,South,Office Supplies,Notebook,3,18.19,0.05,51.84,15.62,Corporate,UPI
+ORD-00217,2025-08-08,,Furniture,Office Chair,1,155.96,0.15,132.57,64.55,Consumer,Card
+ORD-00218,2025-11-15,South,Home & Kitchen,Storage Box,2,95.94,0.0,191.88,43.05,Small Business,UPI
+ORD-00219,2024-08-28,South,Home & Kitchen,Organizer,3,53.98,0.05,153.84,56.21,Small Business,Cash
+ORD-00220,2024-04-08,North,Furniture,Desk,1,568.92,0.0,568.92,293.68,Small Business,Card
+ORD-00221,2024-04-10,Central,Home & Kitchen,Storage Box,2,56.09,0.25,84.14,31.94,Consumer,UPI
+ORD-00222,2024-02-17,Central,Furniture,Filing Cabinet,4,222.49,0.05,845.46,326.23,Consumer,Bank Transfer
+ORD-00223,2025-09-30,East,Technology,Headphones,3,438.3,0.0,1314.9,556.26,Corporate,Cash
+ORD-00224,2024-08-05,West,Technology,Webcam,3,42.33,0.15,107.94,45.01,Consumer,Card
+ORD-00225,2024-06-24,South,Home & Kitchen,Storage Box,2,95.06,0.15,161.6,52.53,Small Business,Card
+ORD-00226,2025-02-02,East,Technology,Keyboard,1,336.55,0.1,302.9,87.97,Corporate,Card
+ORD-00227,2024-02-16,Central,Office Supplies,Notebook,3,17.82,0.2,42.77,11.6,Corporate,Cash
+ORD-00228,2025-12-30,North,Office Supplies,Printer Paper,4,40.64,0.15,138.18,70.35,Consumer,Card
+ORD-00229,2025-11-24,East,Technology,Webcam,1,385.95,0.15,328.06,100.82,Small Business,UPI
+ORD-00230,2024-12-17,East,Office Supplies,Printer Paper,2,35.94,0.05,68.29,25.92,Corporate,UPI
+ORD-00231,2025-02-11,North,Furniture,Bookshelf,4,441.58,0.1,1589.69,455.05,Corporate,Bank Transfer
+ORD-00232,2025-08-26,South,Home & Kitchen,Water Bottle,4,12.07,0.0,48.28,22.55,Small Business,Card
+ORD-00233,2024-04-01,North,Office Supplies,Stapler,1,31.37,0.15,26.66,9.76,Small Business,Bank Transfer
+ORD-00234,2025-10-11,North,Home & Kitchen,Coffee Mug,4,52.85,0.15,179.69,60.29,Consumer,Card
+ORD-00235,2025-09-25,South,Furniture,Filing Cabinet,3,141.7,0.25,318.82,79.42,Small Business,Bank Transfer
+ORD-00236,2025-09-02,Central,Furniture,Standing Desk,2,119.14,0.1,214.45,109.42,Consumer,Card
+ORD-00237,2025-05-28,North,Office Supplies,Folders,1,2.37,0.0,2.37,0.81,Consumer,Card
+ORD-00238,2024-11-10,South,Office Supplies,Notebook,2,5.03,0.0,10.06,4.4,Small Business,UPI
+ORD-00239,2024-01-29,South,Home & Kitchen,Storage Box,1,58.25,0.15,49.51,17.84,Consumer,Card
+ORD-00240,2024-03-31,West,Furniture,Standing Desk,5,37.31,0.1,167.9,38.04,Consumer,Card
+ORD-00241,2025-06-22,North,Home & Kitchen,Water Bottle,1,44.85,0.05,42.61,12.87,Corporate,UPI
+ORD-00242,2025-12-11,South,Technology,Keyboard,1,246.13,0.2,196.9,47.6,Small Business,UPI
+ORD-00243,2024-02-01,Central,Office Supplies,Printer Paper,6,40.81,0.1,220.37,79.38,Consumer,UPI
+ORD-00244,2024-10-07,Central,Technology,Wireless Mouse,1,26.13,0.0,26.13,8.79,Consumer,Card
+ORD-00245,2025-07-30,West,Technology,USB-C Hub,6,233.51,0.0,1401.06,497.29,Small Business,UPI
+ORD-00246,2024-11-02,East,Technology,Monitor,2,212.75,0.05,404.22,139.79,Small Business,UPI
+ORD-00247,2025-09-17,South,Furniture,Filing Cabinet,2,87.91,0.15,149.45,74.62,Consumer,UPI
+ORD-00248,2025-06-13,North,Technology,USB-C Hub,1,19.89,0.2,15.91,6.6,Small Business,Bank Transfer
+ORD-00249,2025-12-14,East,Home & Kitchen,Desk Lamp,2,42.17,0.15,71.69,28.87,Consumer,Card
+ORD-00250,2025-07-25,East,Office Supplies,Pens Pack,1,36.52,0.0,36.52,13.33,Consumer,Cash
+ORD-00251,2025-08-11,Central,Office Supplies,Printer Paper,2,25.46,0.1,45.83,23.43,Corporate,Bank Transfer
+ORD-00252,2024-01-28,East,Furniture,Desk,3,653.99,0.0,1961.97,1000.26,Consumer,UPI
+ORD-00253,2024-10-30,Central,Office Supplies,Stapler,1,43.1,0.1,38.79,18.21,Corporate,UPI
+ORD-00254,2024-04-23,North,Technology,Webcam,4,423.43,0.1,1524.35,583.8,Small Business,Card
+ORD-00255,2024-12-24,North,Office Supplies,Notebook,1,8.73,0.15,7.42,2.16,Small Business,Cash
+ORD-00256,2024-09-08,West,Office Supplies,Printer Paper,3,33.65,0.1,90.85,37.97,Consumer,Card
+ORD-00257,2024-05-17,South,Furniture,Standing Desk,4,263.96,0.15,897.46,385.65,Consumer,Card
+ORD-00258,2025-10-07,Central,Furniture,Desk,1,396.71,0.0,396.71,97.19,Corporate,UPI
+ORD-00259,2024-12-08,West,Office Supplies,Stapler,4,,0.05,137.79,68.58,Consumer,Card
+ORD-00260,2025-08-04,East,Furniture,Desk,5,625.66,0.05,2971.88,1081.77,Corporate,Card
+ORD-00261,2025-08-05,North,Technology,USB-C Hub,1,415.94,0.0,415.94,108.09,Corporate,Card
+ORD-00262,2024-08-10,West,Technology,Monitor,2,351.02,0.15,596.73,281.84,Consumer,Card
+ORD-00263,2024-06-29,South,Furniture,Standing Desk,2,499.29,0.15,848.79,307.23,Corporate,Card
+ORD-00264,2025-10-30,North,Office Supplies,Stapler,5,30.4,0.2,121.6,32.44,Small Business,UPI
+ORD-00265,2025-09-25,West,Home & Kitchen,Water Bottle,1,93.96,0.1,84.56,27.83,Consumer,Card
+ORD-00266,2024-06-24,South,Office Supplies,Pens Pack,6,8.68,0.2,41.66,15.18,Small Business,UPI
+ORD-00267,2025-04-16,West,Office Supplies,Notebook,5,17.33,0.0,86.65,42.33,Consumer,UPI
+ORD-00268,2024-06-21,North,Technology,Webcam,1,236.43,0.1,212.79,61.6,Consumer,Card
+ORD-00269,2024-04-18,East,Furniture,Desk,2,564.79,0.2,903.66,210.81,Consumer,Card
+ORD-00270,2025-08-11,East,Furniture,Desk,1,154.46,0.25,115.84,50.53,Small Business,Cash
+ORD-00271,2024-09-28,North,Office Supplies,Folders,1,38.02,0.1,34.22,8.07,,Card
+ORD-00272,2024-04-28,North,Office Supplies,Pens Pack,4,34.09,0.15,115.91,56.82,Consumer,UPI
+ORD-00273,2024-09-27,West,Technology,Headphones,5,399.96,0.1,1799.82,410.33,Corporate,Card
+ORD-00274,2024-05-23,South,Technology,Webcam,2,346.37,0.0,692.74,316.17,Corporate,Cash
+ORD-00275,2024-05-10,West,Technology,Headphones,2,28.87,0.05,54.85,15.43,Consumer,Bank Transfer
+ORD-00276,2025-11-22,West,Office Supplies,Printer Paper,2,7.59,0.2,12.14,5.83,Small Business,Card
+ORD-00277,2024-11-01,North,Furniture,Bookshelf,3,383.88,0.25,863.73,415.91,Small Business,UPI
+ORD-00278,2025-02-02,West,Technology,Headphones,6,274.82,0.15,1401.58,495.86,Consumer,UPI
+ORD-00279,2025-06-28,East,Home & Kitchen,Organizer,3,25.23,0.05,71.91,31.55,Consumer,Cash
+ORD-00280,2024-01-22,Central,Office Supplies,Folders,3,13.76,0.05,39.22,11.23,Corporate,Bank Transfer
+ORD-00281,2025-02-13,East,Furniture,Desk,1,331.36,0.2,265.09,92.94,Consumer,Card
+ORD-00282,2024-11-23,Central,Office Supplies,Folders,2,15.19,0.0,30.38,14.65,Consumer,Bank Transfer
+ORD-00283,2024-11-03,East,Furniture,Office Chair,1,494.69,0.05,469.96,233.99,Consumer,Card
+ORD-00284,2024-12-24,South,Office Supplies,Folders,2,25.85,0.0,51.7,18.69,Consumer,Card
+ORD-00285,2024-03-08,South,Technology,Monitor,2,321.37,0.05,610.6,216.46,Consumer,Bank Transfer
+ORD-00286,2025-06-27,North,Home & Kitchen,Coffee Mug,1,89.99,0.1,80.99,18.21,Consumer,Card
+ORD-00287,2025-08-20,North,Office Supplies,Folders,2,42.67,0.0,85.34,26.51,Consumer,Card
+ORD-00288,2025-05-19,North,Technology,Keyboard,4,229.89,0.15,781.63,244.11,Corporate,UPI
+ORD-00289,2025-08-29,East,Home & Kitchen,Storage Box,1,53.15,0.2,42.52,16.91,Consumer,UPI
+ORD-00290,2025-11-12,Central,Office Supplies,Pens Pack,1,18.16,0.0,18.16,7.1,Small Business,UPI
+ORD-00291,2024-09-25,West,Home & Kitchen,Storage Box,2,21.5,0.1,38.7,11.4,Consumer,UPI
+ORD-00292,2024-04-25,South,Home & Kitchen,Organizer,2,10.36,0.0,20.72,7.37,Consumer,Cash
+ORD-00293,2024-06-06,North,Home & Kitchen,Desk Lamp,1,24.9,0.1,22.41,7.41,Consumer,Card
+ORD-00294,2025-12-27,East,Office Supplies,Pens Pack,4,35.16,0.0,140.64,66.64,Corporate,Cash
+ORD-00295,2025-03-16,Central,Home & Kitchen,Water Bottle,2,57.15,0.1,102.87,32.32,Consumer,UPI
+ORD-00296,2025-05-17,West,Office Supplies,Pens Pack,4,37.77,0.1,135.97,31.21,Corporate,UPI
+ORD-00297,2025-07-17,West,Technology,USB-C Hub,6,153.17,0.15,781.17,189.96,Consumer,Card
+ORD-00298,2025-08-04,North,Home & Kitchen,Water Bottle,4,95.67,0.15,325.28,164.42,Small Business,Card
+ORD-00299,2025-09-10,East,Furniture,Desk,2,396.12,0.15,673.4,281.19,Corporate,UPI
+ORD-00300,2024-11-29,Central,Office Supplies,Printer Paper,4,8.19,0.2,26.21,12.97,Consumer,Bank Transfer
+ORD-00301,2025-11-16,Central,Technology,Webcam,3,126.37,0.0,379.11,171.8,Consumer,UPI
+ORD-00302,2025-05-28,South,Home & Kitchen,Desk Lamp,4,53.36,0.1,192.1,67.43,Corporate,Card
+ORD-00303,2025-05-15,North,Furniture,Desk,2,495.37,0.1,891.67,245.56,Corporate,UPI
+ORD-00304,2025-06-28,West,Technology,Headphones,2,71.98,0.15,122.37,51.05,Small Business,Cash
+ORD-00305,2025-05-27,South,Home & Kitchen,Water Bottle,2,6.24,0.1,11.23,2.65,Small Business,Card
+ORD-00306,2025-09-16,South,Office Supplies,Notebook,4,10.91,0.1,39.28,14.64,Consumer,Card
+ORD-00307,2025-08-31,South,Office Supplies,Pens Pack,5,30.81,0.2,123.24,61.82,Small Business,Bank Transfer
+ORD-00308,2024-01-17,South,Office Supplies,Notebook,1,34.56,0.0,34.56,15.22,Small Business,Card
+ORD-00309,2025-03-30,West,Home & Kitchen,Storage Box,5,64.86,0.1,291.87,114.13,Consumer,Bank Transfer
+ORD-00310,2024-03-03,East,Furniture,Filing Cabinet,1,525.24,0.2,420.19,135.11,Consumer,Card
+ORD-00311,2025-03-28,West,Furniture,Filing Cabinet,6,665.3,0.05,3792.21,1478.32,Corporate,Cash
+ORD-00312,2024-07-09,East,Office Supplies,Pens Pack,5,21.82,0.15,92.73,27.58,Small Business,UPI
+ORD-00313,2024-09-17,Central,Office Supplies,Printer Paper,2,30.8,0.1,55.44,19.82,Consumer,Cash
+ORD-00314,2025-06-30,South,Technology,Monitor,2,303.79,0.0,607.58,185.31,Corporate,UPI
+ORD-00315,2025-04-17,North,Home & Kitchen,Water Bottle,1,91.07,0.15,77.41,35.57,Consumer,Cash
+ORD-00316,2024-09-30,South,Furniture,Office Chair,1,399.71,0.05,379.72,148.3,Corporate,Cash
+ORD-00317,2024-04-04,East,Office Supplies,Notebook,-1,25.12,0.15,21.35,6.52,Corporate,UPI
+ORD-00318,2025-12-26,West,Office Supplies,Pens Pack,2,43.78,0.15,74.43,29.25,Corporate,Cash
+ORD-00319,2024-04-04,North,Furniture,Office Chair,1,534.24,0.0,534.24,270.95,Consumer,UPI
+ORD-00320,2025-03-07,West,Home & Kitchen,Organizer,5,90.37,0.15,384.07,141.76,Consumer,Card
+ORD-00321,2025-11-27,South,Home & Kitchen,Coffee Mug,3,54.55,0.0,163.65,42.14,Small Business,Card
+ORD-00322,2024-01-14,South,Office Supplies,Folders,1,24.84,0.05,23.6,11.24,Consumer,Bank Transfer
+ORD-00323,2024-02-15,East,Technology,Wireless Mouse,2,270.74,0.0,541.48,197.74,Corporate,UPI
+ORD-00324,2025-05-29,North,Home & Kitchen,Storage Box,6,7.53,0.2,36.14,8.16,Corporate,Card
+ORD-00325,2025-06-05,West,Technology,Wireless Mouse,5,192.22,0.15,816.93,397.5,Consumer,Bank Transfer
+ORD-00326,2025-05-19,East,Furniture,Filing Cabinet,1,203.83,0.05,193.64,74.71,Consumer,Card
+ORD-00327,2024-09-09,West,Office Supplies,Stapler,2,16.25,0.0,32.5,13.02,Corporate,UPI
+ORD-00328,2025-11-12,West,Home & Kitchen,Organizer,3,43.15,0.15,110.03,56.29,Small Business,UPI
+ORD-00329,2024-03-04,Central,Office Supplies,Pens Pack,4,18.81,0.0,75.24,21.57,Consumer,Cash
+ORD-00330,2024-09-21,North,Office Supplies,Notebook,1,11.47,0.2,9.18,3.23,Corporate,UPI
+ORD-00331,2024-06-24,Central,Office Supplies,Notebook,2,13.64,0.15,23.19,11.11,Consumer,UPI
+ORD-00332,2024-08-28,South,Technology,Monitor,3,319.58,0.2,766.99,207.58,Consumer,Card
+ORD-00333,2024-08-06,South,Furniture,Desk,2,169.92,0.0,339.84,159.78,Consumer,Cash
+ORD-00334,2024-02-04,West,Home & Kitchen,Water Bottle,1,36.96,0.1,33.26,14.34,Consumer,Bank Transfer
+ORD-00335,2024-07-31,South,Home & Kitchen,Coffee Mug,4,56.82,0.15,193.19,72.29,Corporate,UPI
+ORD-00336,2025-12-11,West,Office Supplies,Stapler,1,22.92,0.15,19.48,6.54,Corporate,UPI
+ORD-00337,2025-12-22,East,Home & Kitchen,Organizer,2,98.64,0.0,197.28,84.85,Small Business,Bank Transfer
+ORD-00338,2024-09-12,North,Office Supplies,Folders,3,44.42,0.05,126.6,51.7,Corporate,Cash
+ORD-00339,2025-04-26,East,Office Supplies,Notebook,1,27.37,0.15,23.26,11.58,Small Business,Card
+ORD-00340,2025-12-13,North,Technology,Webcam,3,199.96,0.0,599.88,165.34,Consumer,Card
+ORD-00341,2024-05-24,West,Furniture,Filing Cabinet,3,235.86,0.15,601.44,134.24,Consumer,UPI
+ORD-00342,2024-07-22,Central,Technology,Wireless Mouse,1,153.61,0.0,153.61,41.88,Consumer,Cash
+ORD-00343,2025-06-15,Central,Technology,Keyboard,5,290.18,0.1,1305.81,366.6,Consumer,Card
+ORD-00344,2025-06-26,North,Furniture,Standing Desk,4,580.31,0.2,1856.99,440.89,Corporate,Card
+ORD-00345,2025-12-29,South,Home & Kitchen,Coffee Mug,2,38.33,0.0,76.66,27.85,Corporate,UPI
+ORD-00346,2024-05-09,Central,Technology,Keyboard,1,423.51,0.1,381.16,127.88,Small Business,Cash
+ORD-00347,2025-04-24,East,Office Supplies,Folders,6,41.26,0.05,235.18,100.53,Small Business,UPI
+ORD-00348,2024-10-28,West,Technology,USB-C Hub,2,249.72,0.15,424.52,150.66,Consumer,Card
+ORD-00349,2024-02-26,East,Home & Kitchen,Storage Box,1,96.01,0.0,96.01,36.81,Consumer,UPI
+ORD-00350,2025-11-12,North,Furniture,Standing Desk,4,362.96,0.15,1234.06,430.7,Consumer,Bank Transfer
+ORD-00351,2025-09-15,South,Home & Kitchen,Storage Box,6,20.45,0.1,110.43,24.98,Consumer,UPI
+ORD-00352,2025-06-15,West,Furniture,Office Chair,4,629.43,0.05,2391.83,1214.27,Small Business,Card
+ORD-00353,2024-04-22,East,Technology,Keyboard,2,209.65,0.1,377.37,180.8,Small Business,Card
+ORD-00354,2024-08-05,East,Office Supplies,Pens Pack,2,30.21,0.15,51.36,24.85,Consumer,Card
+ORD-00355,2025-12-09,Central,Technology,Monitor,4,375.56,0.05,1427.13,445.62,Consumer,UPI
+ORD-00356,2024-02-24,East,Furniture,Office Chair,3,573.84,0.05,1635.44,816.45,Corporate,UPI
+ORD-00357,2024-02-18,East,Office Supplies,Stapler,1,7.79,0.1,7.01,1.66,Small Business,Card
+ORD-00358,2025-08-09,Central,Furniture,Bookshelf,1,594.74,0.25,446.06,129.47,Corporate,Card
+ORD-00359,2024-11-12,East,Office Supplies,Printer Paper,1,10.61,0.05,10.08,5.24,Corporate,Bank Transfer
+ORD-00360,2024-03-12,East,Technology,USB-C Hub,2,432.72,0.1,778.9,265.51,Consumer,Cash
+ORD-00361,2024-07-04,South,Home & Kitchen,Organizer,5,85.29,0.1,383.81,99.57,Small Business,Card
+ORD-00362,2024-05-26,South,Furniture,Desk,4,120.14,0.15,408.48,179.24,Consumer,UPI
+ORD-00363,2025-03-09,North,Technology,Monitor,1,354.71,0.2,283.77,123.06,Consumer,UPI
+ORD-00364,2025-08-10,East,Technology,Headphones,4,274.39,0.05,1042.68,334.51,Consumer,Card
+ORD-00365,2024-08-26,North,Office Supplies,Printer Paper,3,20.02,0.05,57.06,29.67,Corporate,Card
+ORD-00366,2025-09-22,East,Home & Kitchen,Water Bottle,1,8.82,0.15,7.5,3.07,Consumer,UPI
+ORD-00367,2025-09-22,East,Furniture,Bookshelf,1,472.15,0.0,472.15,108.51,Small Business,UPI
+ORD-00368,2024-04-01,South,Technology,USB-C Hub,4,96.89,0.05,368.18,151.7,Consumer,UPI
+ORD-00369,2024-01-03,Central,Technology,USB-C Hub,3,336.75,0.0,1010.25,468.71,Corporate,Bank Transfer
+ORD-00370,2024-03-06,South,Home & Kitchen,Storage Box,2,33.58,0.0,67.16,27.43,Corporate,Card
+ORD-00371,2024-08-14,South,Home & Kitchen,Water Bottle,2,10.79,0.05,20.5,6.59,Corporate,UPI
+ORD-00372,2025-03-09,East,Home & Kitchen,Water Bottle,5,93.1,0.1,418.95,104.57,Consumer,Card
+ORD-00373,2024-04-19,West,Office Supplies,Notebook,5,4.45,0.2,17.8,7.77,Consumer,Card
+ORD-00374,2024-02-29,North,Technology,Keyboard,5,414.01,0.05,1966.55,937.99,Consumer,Cash
+ORD-00375,2024-02-16,Central,Office Supplies,Notebook,1,33.2,0.05,31.54,13.88,Small Business,UPI
+ORD-00376,2025-10-17,North,Home & Kitchen,Storage Box,6,31.83,0.1,171.88,82.07,Corporate,UPI
+ORD-00377,2024-08-31,Central,Technology,Headphones,4,384.99,0.05,1462.96,528.36,Consumer,UPI
+ORD-00378,2025-10-24,West,Office Supplies,Pens Pack,2,18.4,0.0,36.8,18.72,Consumer,UPI
+ORD-00379,2025-09-15,Central,Office Supplies,Printer Paper,3,8.11,0.0,24.33,7.09,Consumer,Cash
+ORD-00380,2024-01-18,North,Furniture,Filing Cabinet,2,562.9,0.05,1069.51,469.8,Consumer,Cash
+ORD-00381,2025-03-31,North,Technology,Monitor,3,377.17,0.05,1074.93,531.07,Small Business,Card
+ORD-00382,2025-03-07,North,Home & Kitchen,Desk Lamp,2,103.14,0.05,195.97,89.01,Consumer,Cash
+ORD-00383,2024-08-17,West,Office Supplies,Pens Pack,6,32.03,0.05,182.57,87.79,Consumer,UPI
+ORD-00384,2024-02-02,South,Home & Kitchen,Storage Box,4,29.14,0.0,116.56,41.61,Corporate,Card
+ORD-00385,2025-09-22,East,Office Supplies,Stapler,4,26.56,0.15,90.3,20.93,Consumer,Cash
+ORD-00386,2024-08-17,North,Technology,Headphones,4,233.49,0.1,840.56,280.95,Small Business,UPI
+ORD-00387,2024-05-26,North,Technology,USB-C Hub,2,254.06,0.0,508.12,167.58,Consumer,Card
+ORD-00388,2024-04-16,West,Home & Kitchen,Desk Lamp,2,53.86,0.05,102.33,51.12,Consumer,Bank Transfer
+ORD-00389,2025-01-07,West,Technology,Monitor,6,422.13,0.1,2279.5,880.18,Consumer,UPI
+ORD-00390,2024-08-15,South,Furniture,Bookshelf,1,238.54,0.2,190.83,93.78,Small Business,Bank Transfer
+ORD-00391,2024-09-06,East,Technology,Webcam,2,175.55,0.0,351.1,111.26,Small Business,UPI
+ORD-00392,2024-11-25,East,Home & Kitchen,Coffee Mug,5,74.79,0.1,336.56,131.88,Small Business,Cash
+ORD-00393,2024-11-05,Central,Office Supplies,Pens Pack,4,36.5,0.15,124.1,59.65,Consumer,Card
+ORD-00394,2024-01-05,West,Office Supplies,Notebook,1,9.78,0.1,8.8,2.46,Corporate,Card
+ORD-00395,2025-09-23,West,Furniture,Filing Cabinet,6,265.02,0.05,1510.61,687.83,Small Business,UPI
+ORD-00396,2025-08-09,North,Home & Kitchen,Desk Lamp,2,16.49,0.1,29.68,12.93,Small Business,Cash
+ORD-00397,2025-10-09,South,Office Supplies,Pens Pack,5,27.28,0.1,122.76,57.01,Consumer,Card
+ORD-00398,2025-09-08,North,Home & Kitchen,Water Bottle,1,60.1,0.0,60.1,22.23,Small Business,UPI
+ORD-00399,2024-08-20,South,Office Supplies,Stapler,2,9.63,0.0,19.26,5.26,Consumer,Cash
+ORD-00400,2025-10-16,South,Home & Kitchen,Coffee Mug,3,45.29,0.05,129.08,29.96,Small Business,Cash
+ORD-00401,2025-08-05,South,Office Supplies,Printer Paper,5,39.47,0.2,157.88,55.34,Corporate,Cash
+ORD-00402,2024-07-21,South,Furniture,Office Chair,3,434.93,0.2,1043.83,286.15,Consumer,UPI
+ORD-00403,2024-01-21,West,Technology,USB-C Hub,1,342.49,0.15,291.12,65.84,Small Business,Bank Transfer
+ORD-00404,2024-09-05,South,Technology,Webcam,6,111.8,0.1,603.72,155.02,Consumer,UPI
+ORD-00405,2025-02-05,South,Home & Kitchen,Coffee Mug,1,92.29,0.1,83.06,38.85,Consumer,Cash
+ORD-00406,2024-08-25,South,Furniture,Office Chair,4,131.47,0.2,420.7,217.53,Small Business,Card
+ORD-00407,2025-03-05,Central,Technology,USB-C Hub,2,114.91,0.0,229.82,77.91,Consumer,Bank Transfer
+ORD-00408,2025-05-01,North,Furniture,Desk,1,115.85,0.0,115.85,28.87,Consumer,Bank Transfer
+ORD-00409,2024-10-09,North,Home & Kitchen,Organizer,2,105.51,0.1,189.92,87.52,Consumer,UPI
+ORD-00410,2024-06-11,East,Furniture,Standing Desk,2,36.08,0.0,72.16,34.24,Small Business,UPI
+ORD-00411,2025-07-08,North,Home & Kitchen,Coffee Mug,2,98.37,0.15,167.23,70.56,Consumer,Bank Transfer
+ORD-00412,2025-05-03,East,Furniture,Standing Desk,1,159.43,0.15,135.52,59.74,Consumer,UPI
+ORD-00413,2024-09-19,West,Furniture,Bookshelf,3,445.58,0.05,1269.9,532.8,Consumer,Card
+ORD-00414,2024-03-08,North,Furniture,Desk,5,502.14,0.05,2385.16,1149.7,Consumer,UPI
+ORD-00415,2024-11-19,West,Home & Kitchen,Water Bottle,3,117.44,0.15,299.47,152.75,Consumer,UPI
+ORD-00416,2025-01-04,West,Furniture,Office Chair,6,190.73,0.0,1144.38,320.63,Small Business,UPI
+ORD-00417,2025-06-02,North,Home & Kitchen,Storage Box,3,66.07,0.25,148.66,68.55,Corporate,Cash
+ORD-00418,2024-05-29,North,Home & Kitchen,Water Bottle,4,55.17,0.0,220.68,53.28,Corporate,UPI
+ORD-00419,2024-08-14,North,Technology,Headphones,2,99.76,0.15,169.59,72.04,Consumer,Bank Transfer
+ORD-00420,2024-01-26,South,Office Supplies,Folders,2,37.18,0.05,70.64,24.69,Consumer,Card
+ORD-00421,2025-08-31,Central,Home & Kitchen,Organizer,6,83.22,0.2,399.46,88.93,Consumer,UPI
+ORD-00422,2025-02-09,West,Office Supplies,Printer Paper,1,29.5,0.15,25.07,11.91,Corporate,Card
+ORD-00423,2025-03-22,East,Home & Kitchen,Desk Lamp,4,32.46,0.0,129.84,40.2,Consumer,Card
+ORD-00424,2025-04-21,West,Home & Kitchen,Desk Lamp,4,114.44,0.05,434.87,161.97,Small Business,Cash
+ORD-00425,2025-05-12,South,Furniture,Desk,4,106.69,0.15,362.75,167.22,Consumer,Card
+ORD-00426,2024-06-20,East,Technology,Keyboard,1,231.39,0.15,196.68,63.6,Small Business,UPI
+ORD-00427,2024-03-07,North,Office Supplies,Stapler,1,16.36,0.1,14.72,5.47,Consumer,Cash
+ORD-00428,2025-09-20,East,Office Supplies,Pens Pack,2,17.26,0.0,34.52,16.85,Consumer,Card
+ORD-00429,2025-04-11,South,Office Supplies,Notebook,2,32.83,0.0,65.66,25.88,Consumer,UPI
+ORD-00430,2024-12-23,East,Home & Kitchen,Organizer,3,45.42,0.2,109.01,50.64,Small Business,UPI
+ORD-00431,2024-01-27,Central,Furniture,Filing Cabinet,3,559.97,0.05,1595.91,524.43,Corporate,UPI
+ORD-00432,2025-08-12,East,Office Supplies,Stapler,2,3.69,0.1,6.64,1.59,Small Business,Card
+ORD-00433,2024-01-20,North,Office Supplies,Pens Pack,3,34.83,0.0,104.49,27.89,Consumer,Cash
+ORD-00434,2024-09-27,North,Office Supplies,Printer Paper,2,43.52,0.05,82.69,41.93,Small Business,Bank Transfer
+ORD-00435,2025-02-01,North,Furniture,Desk,6,529.18,0.15,2698.82,1400.93,Consumer,UPI
+ORD-00436,2024-02-12,East,Furniture,Standing Desk,1,77.0,0.05,73.15,21.68,Consumer,Cash
+ORD-00437,2024-12-30,West,Office Supplies,Pens Pack,5,20.47,0.15,87.0,28.91,Small Business,Card
+ORD-00438,2024-05-12,North,Home & Kitchen,Organizer,6,59.01,0.0,354.06,91.33,Consumer,Card
+ORD-00439,2025-03-10,East,Home & Kitchen,Desk Lamp,1,113.99,0.0,113.99,35.82,Corporate,Bank Transfer
+ORD-00440,2025-07-28,East,Technology,Wireless Mouse,3,310.59,0.1,838.59,382.81,Consumer,Cash
+ORD-00441,2024-09-22,North,Furniture,Bookshelf,2,276.67,0.05,525.67,224.79,Small Business,Card
+ORD-00442,2025-09-12,Central,Furniture,Office Chair,3,40.67,0.05,115.91,48.48,Consumer,Bank Transfer
+ORD-00443,2025-04-10,Central,Home & Kitchen,Water Bottle,2,99.68,0.1,179.42,40.24,Consumer,UPI
+ORD-00444,2024-09-26,East,Furniture,Bookshelf,5,218.62,0.0,1093.1,345.44,Small Business,UPI
+ORD-00445,2025-06-13,West,Home & Kitchen,Coffee Mug,6,92.27,0.2,442.9,212.83,Corporate,Card
+ORD-00446,2024-06-18,North,Office Supplies,Printer Paper,1,6.19,0.1,5.57,1.48,Corporate,UPI
+ORD-00447,2025-03-06,South,Home & Kitchen,Desk Lamp,1,27.0,0.0,27.0,10.4,Small Business,Bank Transfer
+ORD-00448,2024-10-14,South,Furniture,Filing Cabinet,2,218.96,0.15,372.23,136.49,Small Business,UPI
+ORD-00449,2025-07-23,South,Technology,Wireless Mouse,3,272.91,0.0,818.73,219.66,Small Business,Card
+ORD-00450,2025-07-05,North,Furniture,Office Chair,1,261.55,0.0,261.55,63.89,Corporate,UPI
+ORD-00451,2025-04-06,East,Office Supplies,Pens Pack,3,4.61,0.1,12.45,3.16,Corporate,Card
+ORD-00452,2025-02-09,East,Furniture,Standing Desk,2,115.9,0.15,197.03,69.17,Small Business,Card
+ORD-00453,2024-02-08,West,Technology,Keyboard,2,180.8,0.0,361.6,139.86,Consumer,UPI
+ORD-00454,2025-04-05,West,Technology,USB-C Hub,4,246.21,0.05,935.6,217.64,Consumer,UPI
+ORD-00455,2024-05-05,West,Technology,Keyboard,1,168.63,0.15,143.34,54.44,Small Business,UPI
+ORD-00456,2024-09-22,Central,Office Supplies,Printer Paper,4,41.33,0.25,123.99,53.84,Consumer,UPI
+ORD-00457,2024-04-06,North,Office Supplies,Notebook,6,25.39,0.05,144.72,44.59,Consumer,Card
+ORD-00458,2025-03-29,South,Office Supplies,Stapler,2,20.85,0.2,33.36,11.21,Small Business,Card
+ORD-00459,2025-08-13,East,Office Supplies,Stapler,1,29.2,0.05,27.74,10.37,Small Business,Card
+ORD-00460,2025-08-19,,Technology,Webcam,5,34.21,0.25,128.29,38.16,Consumer,UPI
+ORD-00461,2024-11-24,South,Office Supplies,Stapler,3,34.29,0.15,87.44,23.59,Corporate,Card
+ORD-00462,2025-05-19,North,Technology,Keyboard,4,394.39,0.15,1340.93,486.66,Corporate,Bank Transfer
+ORD-00463,2024-11-18,North,Office Supplies,Stapler,2,13.79,0.0,27.58,8.37,Corporate,Cash
+ORD-00464,2024-01-26,West,Furniture,Filing Cabinet,2,618.22,0.1,1112.8,354.82,Small Business,Bank Transfer
+ORD-00465,2024-04-09,South,Technology,Monitor,1,59.26,0.1,53.33,21.93,Small Business,Bank Transfer
+ORD-00466,2024-09-16,South,Furniture,Standing Desk,3,33.26,0.0,99.78,23.57,Small Business,Cash
+ORD-00467,2025-08-25,South,Furniture,Bookshelf,4,387.07,0.15,1316.04,547.13,Consumer,UPI
+ORD-00468,2024-08-13,West,Furniture,Office Chair,3,372.55,0.15,950.0,296.41,Consumer,UPI
+ORD-00469,2024-09-05,West,Technology,Webcam,4,206.32,0.1,742.75,200.75,Small Business,Card
+ORD-00470,2025-08-02,West,Office Supplies,Stapler,2,13.47,0.0,26.94,8.59,Small Business,UPI
+ORD-00471,2025-11-27,Central,Furniture,Filing Cabinet,5,472.02,0.2,1888.08,783.96,Corporate,Cash
+ORD-00472,2024-02-19,North,Office Supplies,Pens Pack,2,11.94,0.0,23.88,6.21,Consumer,UPI
+ORD-00473,2025-02-07,South,Home & Kitchen,Organizer,1,106.6,0.15,90.61,45.25,Corporate,Card
+ORD-00474,2024-10-21,South,Home & Kitchen,Desk Lamp,1,6.77,0.2,5.42,2.4,Consumer,UPI
+ORD-00475,2025-02-23,West,Home & Kitchen,Water Bottle,1,40.27,0.15,34.23,9.55,Consumer,Card
+ORD-00476,2025-10-01,South,Technology,Wireless Mouse,1,92.87,0.0,92.87,26.19,,Card
+ORD-00477,2024-08-05,East,Furniture,Standing Desk,3,675.69,0.0,2027.07,454.35,Small Business,UPI
+ORD-00478,2025-06-03,South,Furniture,Desk,1,520.35,0.1,468.32,197.45,Consumer,Card
+ORD-00479,2024-02-08,Central,Office Supplies,Pens Pack,1,42.81,0.1,38.53,14.23,Corporate,UPI
+ORD-00480,2025-08-14,South,Office Supplies,Pens Pack,1,31.21,0.2,24.97,9.11,Corporate,UPI
+ORD-00481,2024-04-21,South,Furniture,Office Chair,2,695.54,0.25,1043.31,430.65,Small Business,Card
+ORD-00482,2024-10-07,East,Home & Kitchen,Water Bottle,4,27.57,0.2,88.22,36.63,Consumer,Cash
+ORD-00483,2024-06-02,East,Technology,Headphones,3,139.41,0.0,418.23,129.16,Small Business,UPI
+ORD-00484,2024-05-21,South,Furniture,Standing Desk,2,117.54,0.1,211.57,58.22,Consumer,UPI
+ORD-00485,2024-05-08,West,Technology,Headphones,4,409.65,0.0,1638.6,627.72,Consumer,Bank Transfer
+ORD-00486,2024-02-14,East,Technology,Webcam,2,277.29,0.0,554.58,167.12,Consumer,Cash
+ORD-00487,2025-10-10,South,Office Supplies,Printer Paper,5,37.77,0.15,160.52,82.08,Consumer,Card
+ORD-00488,2024-01-06,East,Furniture,Bookshelf,2,606.16,0.15,1030.47,501.21,Corporate,Bank Transfer
+ORD-00489,2024-05-24,Central,Technology,Monitor,4,47.71,0.0,190.84,93.04,Corporate,Cash
+ORD-00490,2025-03-15,East,Home & Kitchen,Coffee Mug,3,41.3,0.0,123.9,39.93,Corporate,Bank Transfer
+ORD-00491,2025-03-19,South,Office Supplies,Printer Paper,2,39.73,0.05,75.49,30.43,Consumer,Card
+ORD-00492,2025-08-24,North,Home & Kitchen,Desk Lamp,2,101.41,0.1,182.54,61.07,Small Business,UPI
+ORD-00493,2024-03-07,North,Home & Kitchen,Organizer,3,29.81,0.2,71.54,33.21,Consumer,Card
+ORD-00494,2025-07-07,East,Furniture,Standing Desk,4,639.39,0.1,2301.8,741.82,Small Business,UPI
+ORD-00495,2025-03-21,East,Office Supplies,Notebook,1,34.82,0.1,31.34,10.51,Small Business,Card
+ORD-00496,2025-10-31,West,Home & Kitchen,Water Bottle,2,99.85,0.15,169.74,54.37,Small Business,UPI
+ORD-00497,2024-11-01,South,Technology,Keyboard,1,417.9,0.25,313.42,136.56,Corporate,UPI
+ORD-00498,2025-05-05,Central,Home & Kitchen,Organizer,2,7.26,0.1,13.07,4.01,Consumer,UPI
+ORD-00499,2025-02-08,West,Technology,Wireless Mouse,2,21.41,0.05,40.68,16.08,Corporate,Card
+ORD-00500,2025-11-08,East,Furniture,Desk,2,247.75,0.25,371.62,156.73,Consumer,Card
+ORD-00501,2025-05-05,East,Home & Kitchen,Organizer,5,71.99,0.1,323.95,85.81,Small Business,Card
+ORD-00502,2025-06-10,East,Furniture,Bookshelf,4,230.44,0.0,921.76,276.35,Consumer,Cash
+ORD-00503,2025-06-26,East,Furniture,Standing Desk,2,417.63,0.1,751.73,342.4,Small Business,Cash
+ORD-00504,2024-05-11,North,Office Supplies,Notebook,6,10.56,0.1,57.02,21.11,Consumer,UPI
+ORD-00505,2025-04-01,West,Home & Kitchen,Organizer,2,35.0,0.05,66.5,16.58,Consumer,Cash
+ORD-00506,2024-03-05,North,Office Supplies,Pens Pack,2,30.24,0.2,48.38,16.92,Consumer,Cash
+ORD-00507,2025-04-17,South,Home & Kitchen,Desk Lamp,1,83.82,0.15,71.25,27.23,Corporate,Bank Transfer
+ORD-00508,2025-01-10,South,Home & Kitchen,Desk Lamp,2,54.74,0.05,104.01,43.76,Corporate,Bank Transfer
+ORD-00509,2024-09-16,West,Office Supplies,Folders,2,41.47,0.0,82.94,21.62,Small Business,Card
+ORD-00510,2024-06-25,North,Home & Kitchen,Storage Box,4,112.2,0.15,381.48,111.69,Small Business,UPI
+ORD-00511,2024-07-06,West,Home & Kitchen,Coffee Mug,1,58.33,0.1,52.5,13.16,Consumer,Card
+ORD-00512,2025-03-14,North,Furniture,Desk,4,257.66,0.1,927.58,244.32,Consumer,UPI
+ORD-00513,2025-05-01,South,Office Supplies,Printer Paper,3,13.68,0.0,41.04,13.58,Consumer,Cash
+ORD-00514,2024-12-18,Central,Technology,USB-C Hub,6,215.94,0.05,1230.86,296.2,Consumer,Card
+ORD-00515,2024-03-22,West,Office Supplies,Stapler,1,9.49,0.0,9.49,2.27,Consumer,Bank Transfer
+ORD-00516,2025-01-01,West,Furniture,Desk,5,422.24,0.15,1794.52,830.48,Corporate,Card
+ORD-00517,2024-10-30,East,Technology,USB-C Hub,3,191.18,0.15,487.51,111.18,Consumer,Card
+ORD-00518,2024-07-27,North,Furniture,Office Chair,1,402.24,0.05,382.13,144.06,Consumer,Cash
+ORD-00519,2025-02-09,South,Furniture,Standing Desk,4,190.72,0.1,686.59,261.48,Small Business,Cash
+ORD-00520,2024-08-05,North,Technology,Webcam,2,292.52,0.0,585.04,219.15,Corporate,Cash
+ORD-00521,2024-08-06,North,Technology,USB-C Hub,2,236.91,0.1,426.44,164.16,Small Business,Bank Transfer
+ORD-00522,2024-12-04,West,Home & Kitchen,Organizer,2,113.23,0.15,192.49,65.22,Consumer,Cash
+ORD-00523,2024-10-18,Central,Furniture,Desk,2,289.13,0.1,520.43,255.04,Small Business,Card
+ORD-00524,2025-10-30,Central,Home & Kitchen,Desk Lamp,1,24.39,0.0,24.39,7.44,Corporate,Card
+ORD-00525,2025-04-29,South,Furniture,Standing Desk,3,532.62,0.05,1517.97,734.77,Consumer,UPI
+ORD-00526,2025-09-10,North,Furniture,Desk,6,248.84,0.2,1194.43,524.33,Small Business,UPI
+ORD-00527,2025-04-24,West,Home & Kitchen,Water Bottle,2,26.93,0.1,48.47,14.13,Consumer,Cash
+ORD-00528,2025-03-31,North,Technology,USB-C Hub,1,299.79,0.1,269.81,92.56,Consumer,Cash
+ORD-00529,2024-12-16,North,Office Supplies,Notebook,4,26.35,0.2,84.32,38.16,Small Business,UPI
+ORD-00530,2024-09-06,Central,Furniture,Filing Cabinet,4,556.7,0.05,2115.46,535.26,Corporate,Bank Transfer
+ORD-00531,2025-06-27,West,Office Supplies,Notebook,2,15.32,0.05,29.11,7.44,Corporate,Cash
+ORD-00532,2024-11-08,East,Home & Kitchen,Water Bottle,1,50.9,0.0,50.9,18.58,Consumer,Card
+ORD-00533,2025-08-11,West,Home & Kitchen,Organizer,2,61.27,0.1,110.29,26.19,Small Business,Card
+ORD-00534,2024-04-01,Central,Technology,Webcam,1,265.84,0.1,239.26,117.67,Small Business,UPI
+ORD-00535,2024-02-26,North,Technology,USB-C Hub,1,250.41,0.05,237.89,64.13,Corporate,UPI
+ORD-00536,2024-10-06,West,Technology,USB-C Hub,3,237.53,0.0,712.59,170.16,Corporate,UPI
+ORD-00537,2024-02-11,North,Home & Kitchen,Desk Lamp,2,39.03,0.25,58.55,20.57,Small Business,Bank Transfer
+ORD-00538,2025-08-22,East,Furniture,Desk,2,671.93,0.15,1142.28,532.92,Consumer,UPI
+ORD-00539,2025-06-19,North,Office Supplies,Pens Pack,1,27.0,0.05,25.65,12.17,Corporate,UPI
+ORD-00540,2024-03-02,Central,Office Supplies,Printer Paper,1,18.18,0.05,17.27,7.65,Consumer,Card
+ORD-00541,2025-07-04,North,Technology,Webcam,2,354.58,0.1,638.24,263.73,Small Business,UPI
+ORD-00542,2025-10-03,Central,Technology,Headphones,4,426.83,0.05,1621.95,362.65,Corporate,UPI
+ORD-00543,2025-02-22,West,Office Supplies,Folders,2,23.7,0.05,45.03,14.68,Consumer,UPI
+ORD-00544,2025-07-08,East,Home & Kitchen,Coffee Mug,4,22.56,0.2,72.19,31.19,Corporate,UPI
+ORD-00545,2024-12-16,North,Home & Kitchen,Desk Lamp,2,68.34,0.1,123.01,27.21,Consumer,UPI
+ORD-00546,2024-10-18,West,Technology,Wireless Mouse,1,297.15,0.0,297.15,141.7,Corporate,UPI
+ORD-00547,2025-05-08,East,Home & Kitchen,Desk Lamp,2,99.53,0.1,179.15,68.81,Corporate,Card
+ORD-00548,2025-12-09,Central,Home & Kitchen,Storage Box,1,59.06,0.2,47.25,24.26,Corporate,Card
+ORD-00549,2024-10-21,East,Furniture,Standing Desk,3,624.96,0.0,1874.88,687.18,Consumer,Cash
+ORD-00550,2024-06-01,Central,Office Supplies,Notebook,4,24.63,0.15,83.74,25.47,Corporate,UPI
+ORD-00551,2024-09-04,East,Furniture,Desk,4,647.43,0.0,2589.72,752.69,Small Business,Card
+ORD-00552,2024-07-11,South,Technology,Webcam,2,90.15,0.1,162.27,53.93,Small Business,Card
+ORD-00553,2024-09-04,South,Technology,Wireless Mouse,2,416.34,0.05,791.05,232.19,Consumer,Card
+ORD-00554,2024-10-02,Central,Technology,Monitor,2,17.47,0.15,29.7,12.23,Corporate,Card
+ORD-00555,2024-05-20,South,Office Supplies,Stapler,3,23.69,0.05,67.52,33.5,Consumer,Cash
+ORD-00556,2024-09-25,Central,Office Supplies,Stapler,1,5.19,0.0,5.19,1.34,Corporate,Cash
+ORD-00557,2024-12-31,North,Office Supplies,Printer Paper,3,17.13,0.0,51.39,23.93,Consumer,Bank Transfer
+ORD-00558,2025-01-13,Central,Technology,Headphones,2,356.4,0.2,570.24,259.94,Consumer,Card
+ORD-00559,2025-07-26,South,Technology,Webcam,4,320.34,0.05,1217.29,383.11,Small Business,Bank Transfer
+ORD-00560,2024-10-11,South,Office Supplies,Folders,2,40.83,0.05,77.58,25.79,Corporate,Card
+ORD-00561,2025-05-24,East,Technology,Monitor,6,306.92,0.0,1841.52,423.83,Corporate,UPI
+ORD-00562,2025-06-06,North,Technology,USB-C Hub,1,291.2,0.0,291.2,146.14,Corporate,Card
+ORD-00563,2025-11-02,Central,Office Supplies,Notebook,2,41.07,0.05,78.03,21.03,Corporate,Card
+ORD-00564,2025-01-09,North,Technology,Headphones,3,388.96,0.25,875.16,395.36,Small Business,Cash
+ORD-00565,2024-04-11,South,Office Supplies,Notebook,1,3.09,0.1,2.78,1.34,Consumer,Cash
+ORD-00566,2024-05-19,East,Technology,Keyboard,2,22.95,0.0,45.9,21.2,Corporate,UPI
+ORD-00567,2024-03-22,Central,Furniture,Desk,6,334.81,0.0,2008.86,1030.3,Consumer,UPI
+ORD-00568,2025-05-17,North,Home & Kitchen,Desk Lamp,1,89.69,0.0,89.69,31.54,Corporate,Cash
+ORD-00569,2024-06-22,North,Home & Kitchen,Storage Box,2,79.32,0.2,126.91,62.33,Consumer,Bank Transfer
+ORD-00570,2025-10-25,North,Furniture,Standing Desk,1,522.0,0.0,522.0,174.12,Consumer,UPI
+ORD-00571,2025-11-11,Central,Office Supplies,Folders,2,20.27,0.15,34.46,10.12,Consumer,Cash
+ORD-00572,2024-06-23,East,Office Supplies,Folders,2,14.54,0.0,29.08,14.75,Consumer,UPI
+ORD-00573,2024-01-01,North,Furniture,Desk,3,281.15,0.05,801.28,348.92,Small Business,Card
+ORD-00574,2025-10-02,North,Office Supplies,Stapler,3,40.97,0.15,104.47,34.77,Corporate,Card
+ORD-00575,2024-03-09,North,Furniture,Desk,3,363.67,0.2,872.81,367.03,Small Business,Card
+ORD-00576,2025-04-10,East,Office Supplies,Folders,2,27.44,0.25,41.16,20.67,Consumer,Cash
+ORD-00577,2024-01-24,East,Technology,Monitor,2,56.92,0.1,102.46,46.92,Small Business,UPI
+ORD-00578,2025-05-21,East,Office Supplies,Printer Paper,3,25.06,0.1,67.66,19.36,Corporate,Card
+ORD-00579,2024-01-30,South,Home & Kitchen,Water Bottle,2,20.91,0.15,35.55,16.64,Consumer,Card
+ORD-00580,2024-07-11,Central,Technology,Headphones,2,384.74,0.2,615.58,260.32,Consumer,Card
+ORD-00581,2025-10-25,East,Home & Kitchen,Organizer,1,83.31,0.15,70.81,24.8,Consumer,Bank Transfer
+ORD-00582,2024-03-03,North,Office Supplies,Pens Pack,2,24.95,0.15,42.41,10.76,Small Business,Card
+ORD-00583,2024-02-17,South,Home & Kitchen,Coffee Mug,2,19.63,0.2,31.41,9.09,Corporate,Card
+ORD-00584,2025-06-27,South,Office Supplies,Notebook,4,32.91,0.05,125.06,45.86,Consumer,Cash
+ORD-00585,2024-04-02,North,Office Supplies,Stapler,3,38.37,0.1,103.6,52.95,Consumer,UPI
+ORD-00586,2025-06-30,Central,Office Supplies,Stapler,1,34.86,0.15,29.63,10.51,Consumer,Cash
+ORD-00587,2024-11-03,North,Home & Kitchen,Water Bottle,4,48.62,0.05,184.76,91.79,Small Business,UPI
+ORD-00588,2024-11-25,North,Furniture,Filing Cabinet,2,64.84,0.15,110.23,54.27,Small Business,Bank Transfer
+ORD-00589,2025-11-17,North,Technology,Webcam,1,231.07,0.1,207.96,101.52,Consumer,UPI
+ORD-00590,2025-10-09,East,Office Supplies,Printer Paper,5,4.68,0.0,23.4,6.54,Consumer,Card
+ORD-00591,2025-03-01,South,Technology,USB-C Hub,2,89.91,0.15,152.85,62.39,Small Business,UPI
+ORD-00592,2025-11-11,Central,Technology,Wireless Mouse,4,422.3,0.0,1689.2,378.02,Small Business,Bank Transfer
+ORD-00593,2024-08-03,South,Technology,Webcam,3,343.59,0.05,979.23,304.79,Corporate,UPI
+ORD-00594,2025-04-04,East,Technology,Wireless Mouse,5,369.52,0.0,1847.6,667.4,Small Business,UPI
+ORD-00595,2025-06-28,South,Office Supplies,Notebook,5,18.46,0.05,87.69,41.18,Small Business,Cash
+ORD-00596,2024-09-27,South,Home & Kitchen,Water Bottle,1,7.05,0.1,6.34,2.42,Consumer,Cash
+ORD-00597,2024-06-08,North,Furniture,Filing Cabinet,3,327.28,0.0,981.84,415.89,Consumer,Cash
+ORD-00598,2025-12-25,North,Home & Kitchen,Water Bottle,1,116.42,0.15,98.96,41.16,Consumer,UPI
+ORD-00599,2024-01-17,North,Home & Kitchen,Storage Box,6,80.43,0.0,482.58,240.78,Consumer,UPI
+ORD-00600,2024-08-13,South,Furniture,Bookshelf,5,656.36,0.0,3281.8,1288.37,Consumer,Card
+ORD-00601,2024-12-01,West,Home & Kitchen,Water Bottle,2,21.31,0.0,42.62,11.88,Corporate,Card
+ORD-00602,2024-02-18,East,Furniture,Bookshelf,2,176.99,0.15,300.88,102.72,Small Business,Card
+ORD-00603,2024-01-19,North,Furniture,Desk,3,312.82,0.05,891.54,317.99,Consumer,UPI
+ORD-00604,2024-07-08,North,Office Supplies,Folders,6,38.62,0.1,208.55,49.7,Small Business,Cash
+ORD-00605,2024-04-02,South,Office Supplies,Pens Pack,4,11.68,0.1,42.05,11.41,Consumer,Bank Transfer
+ORD-00606,2024-03-31,North,Home & Kitchen,Coffee Mug,4,10.05,0.15,34.17,12.77,Small Business,Bank Transfer
+ORD-00607,2025-02-04,South,Office Supplies,Folders,1,9.41,0.15,8.0,2.97,Consumer,Card
+ORD-00608,2024-11-08,Central,Office Supplies,Folders,3,37.73,0.15,96.21,34.56,Consumer,UPI
+ORD-00609,2024-08-10,Central,Home & Kitchen,Water Bottle,1,45.04,0.1,40.54,17.6,Consumer,Cash
+ORD-00610,2024-12-09,South,Office Supplies,Notebook,4,28.09,0.2,89.89,33.24,Corporate,Bank Transfer
+ORD-00611,2024-11-15,South,Furniture,Standing Desk,2,691.61,0.05,1314.06,456.26,Small Business,Card
+ORD-00612,2025-10-30,West,Home & Kitchen,Desk Lamp,3,72.23,0.2,173.35,53.6,Consumer,Bank Transfer
+ORD-00613,2024-10-31,East,Office Supplies,Stapler,3,44.55,0.1,120.28,39.75,Consumer,UPI
+ORD-00614,2024-12-07,South,Office Supplies,Printer Paper,2,9.22,0.05,17.52,5.24,Corporate,UPI
+ORD-00615,2025-09-02,East,Furniture,Desk,6,265.04,0.0,1590.24,434.61,Corporate,Cash
+ORD-00616,2025-02-25,North,Office Supplies,Stapler,3,7.0,0.15,17.85,6.79,Corporate,Card
+ORD-00617,2025-08-31,North,Office Supplies,Pens Pack,4,21.62,0.1,77.83,25.03,Consumer,Cash
+ORD-00618,2025-04-18,North,Home & Kitchen,Water Bottle,1,35.11,0.0,35.11,15.98,Consumer,Card
+ORD-00619,2025-09-20,West,Furniture,Filing Cabinet,4,336.35,0.05,1278.13,660.29,Consumer,UPI
+ORD-00620,2024-06-25,South,Furniture,Filing Cabinet,2,149.91,0.05,284.83,88.94,Small Business,UPI
+ORD-00621,2024-06-26,South,Office Supplies,Notebook,2,37.51,0.05,71.27,31.72,Small Business,Cash
+ORD-00622,2025-05-08,Central,Home & Kitchen,Water Bottle,3,39.16,0.15,99.86,26.67,Consumer,Cash
+ORD-00623,2025-01-05,North,Technology,Wireless Mouse,6,181.55,0.05,1034.84,362.92,Consumer,Cash
+ORD-00624,2025-01-15,Central,Furniture,Desk,1,314.65,0.2,251.72,110.8,Consumer,UPI
+ORD-00625,2025-07-08,South,Office Supplies,Pens Pack,3,25.27,0.05,72.02,17.79,Consumer,Card
+ORD-00626,2025-01-06,North,Home & Kitchen,Organizer,2,106.35,0.1,191.43,57.35,Consumer,UPI
+ORD-00627,2024-06-06,South,Office Supplies,Pens Pack,2,18.34,0.1,33.01,15.37,Small Business,Bank Transfer
+ORD-00628,2025-07-30,North,Office Supplies,Stapler,2,36.45,0.15,61.97,23.83,Consumer,Cash
+ORD-00629,2025-06-30,South,Office Supplies,Printer Paper,1,40.15,0.1,36.13,11.39,Corporate,Card
+ORD-00630,2024-08-25,South,Furniture,Office Chair,5,25.92,0.1,116.64,32.12,Consumer,Card
+ORD-00631,2024-03-14,East,Home & Kitchen,Storage Box,2,67.89,0.1,122.2,42.46,Consumer,Bank Transfer
+ORD-00632,2024-08-04,West,Office Supplies,Pens Pack,2,8.89,0.15,15.11,5.91,Small Business,UPI
+ORD-00633,2025-05-30,West,Technology,USB-C Hub,3,143.83,0.1,388.34,189.62,Small Business,Cash
+ORD-00634,2025-09-09,Central,Technology,Headphones,4,146.63,0.25,439.89,122.45,Consumer,UPI
+ORD-00635,2024-11-11,South,Technology,Keyboard,4,276.81,0.1,996.52,385.15,Consumer,UPI
+ORD-00636,2025-01-04,West,Office Supplies,Pens Pack,3,42.24,0.1,114.05,31.72,Corporate,Card
+ORD-00637,2025-03-24,East,Technology,Headphones,4,183.66,0.0,734.64,352.02,Consumer,Bank Transfer
+ORD-00638,2025-05-30,North,Office Supplies,Pens Pack,2,18.07,0.15,30.72,7.44,Small Business,UPI
+ORD-00639,2024-07-07,South,Office Supplies,Pens Pack,4,11.92,0.2,38.14,13.7,Consumer,Card
+ORD-00640,2025-01-05,West,Technology,Webcam,4,412.1,0.15,1401.14,465.69,Consumer,Card
+ORD-00641,2024-02-18,Central,Technology,Monitor,4,275.75,0.0,1103.0,466.49,Corporate,Bank Transfer
+ORD-00642,2025-05-05,North,Office Supplies,Stapler,1,4.95,0.1,4.46,2.25,Consumer,Cash
+ORD-00643,2024-03-04,North,Furniture,Bookshelf,4,310.43,0.1,1117.55,429.65,Corporate,UPI
+ORD-00644,2024-05-09,Central,Office Supplies,Folders,1,9.23,0.25,6.92,2.73,Small Business,Bank Transfer
+ORD-00645,2024-11-15,South,Furniture,Standing Desk,1,664.17,0.15,564.54,170.99,Consumer,UPI
+ORD-00646,2025-10-10,Central,Furniture,Filing Cabinet,1,60.54,0.0,60.54,22.9,Corporate,Card
+ORD-00647,2024-12-01,Central,Furniture,Bookshelf,3,570.99,0.05,1627.32,694.42,Consumer,Cash
+ORD-00648,2024-09-12,North,Office Supplies,Notebook,5,6.34,0.0,31.7,14.87,Corporate,UPI
+ORD-00649,2025-11-06,East,Office Supplies,Folders,3,19.08,0.05,54.38,26.18,Consumer,Cash
+ORD-00650,2024-06-13,South,Technology,Wireless Mouse,2,148.69,0.0,297.38,81.67,Corporate,Bank Transfer
+ORD-00651,2024-01-04,North,Technology,Wireless Mouse,1,103.05,0.25,77.29,18.96,Corporate,Bank Transfer
+ORD-00652,2025-02-11,Central,Furniture,Desk,1,274.62,0.2,219.7,59.75,Consumer,Card
+ORD-00653,2024-04-29,Central,Technology,Webcam,5,196.58,0.1,884.61,236.65,Consumer,Card
+ORD-00654,2024-07-23,East,Home & Kitchen,Coffee Mug,1,76.4,0.15,64.94,26.12,Small Business,Cash
+ORD-00655,2025-01-23,East,Technology,Headphones,4,148.79,0.0,595.16,161.79,Corporate,Card
+ORD-00656,2025-02-23,West,Office Supplies,Printer Paper,2,35.51,0.0,71.02,27.59,Consumer,Cash
+ORD-00657,2025-10-21,East,Furniture,Standing Desk,3,39.66,0.15,101.13,51.81,Small Business,Bank Transfer
+ORD-00658,2025-10-05,Central,Office Supplies,Folders,4,35.8,0.25,107.4,47.87,Corporate,Cash
+ORD-00659,2025-04-12,West,Furniture,Office Chair,1,675.93,0.05,642.13,204.63,Corporate,Card
+ORD-00660,2025-04-15,Central,Technology,Headphones,5,165.74,0.1,745.83,247.15,Consumer,Bank Transfer
+ORD-00661,2025-12-29,North,Office Supplies,Notebook,4,41.24,0.2,131.97,38.25,Small Business,Cash
+ORD-00662,2024-03-10,North,Technology,USB-C Hub,5,248.3,0.2,993.2,405.86,Consumer,Card
+ORD-00663,2025-07-02,South,Office Supplies,Printer Paper,4,9.33,0.0,37.32,14.39,Small Business,Card
+ORD-00664,2025-07-17,North,Furniture,Office Chair,1,263.93,0.2,211.14,57.8,Corporate,UPI
+ORD-00665,2024-02-08,East,Home & Kitchen,Coffee Mug,1,14.83,0.1,13.35,5.79,Consumer,Card
+ORD-00666,2024-12-29,Central,Home & Kitchen,Coffee Mug,4,100.04,0.05,380.15,149.09,Corporate,Card
+ORD-00667,2024-11-01,Central,Furniture,Standing Desk,4,362.46,0.05,1377.35,596.62,Consumer,Card
+ORD-00668,2025-01-14,East,Office Supplies,Stapler,6,,0.15,129.29,38.39,Small Business,Card
+ORD-00669,2024-05-12,North,Office Supplies,Pens Pack,2,33.16,0.05,63.0,27.14,Small Business,Card
+ORD-00670,2024-05-29,East,Technology,Headphones,1,288.73,0.1,259.86,116.41,Small Business,Card
+ORD-00671,2025-04-10,North,Furniture,Office Chair,2,382.41,0.0,764.82,380.39,Consumer,Card
+ORD-00672,2025-09-28,North,Home & Kitchen,Desk Lamp,1,117.22,0.0,117.22,60.47,Consumer,Card
+ORD-00673,2025-08-28,North,Technology,Monitor,6,332.59,0.05,1895.76,805.32,Consumer,Card
+ORD-00674,2025-11-19,South,Home & Kitchen,Desk Lamp,6,84.14,0.1,454.36,214.68,Consumer,UPI
+ORD-00675,2024-07-07,South,Home & Kitchen,Water Bottle,4,76.03,0.25,228.09,114.87,Corporate,Cash
+ORD-00676,2024-11-27,West,Technology,Wireless Mouse,3,164.81,0.1,444.99,165.46,Corporate,Card
+ORD-00677,2024-06-29,East,Office Supplies,Stapler,3,24.2,0.1,65.34,14.52,Consumer,Card
+ORD-00678,2024-01-12,Central,Furniture,Filing Cabinet,6,577.96,0.0,3467.76,1310.39,Small Business,UPI
+ORD-00679,2024-10-09,South,Technology,Webcam,1,199.34,0.2,159.47,48.4,Consumer,Bank Transfer
+ORD-00680,2025-10-15,South,Furniture,Standing Desk,1,323.02,0.2,258.42,75.73,Consumer,Bank Transfer
+ORD-00681,2024-09-23,North,Office Supplies,Printer Paper,1,10.86,0.05,10.32,4.01,Small Business,UPI
+ORD-00682,2025-02-21,West,Furniture,Office Chair,1,166.49,0.2,133.19,42.53,Consumer,Bank Transfer
+ORD-00683,2025-05-03,West,Office Supplies,Pens Pack,2,15.98,0.05,30.36,10.14,Corporate,Card
+ORD-00684,2025-12-28,Central,Technology,USB-C Hub,6,61.61,0.0,369.66,149.45,Consumer,UPI
+ORD-00685,2024-05-04,Central,Furniture,Bookshelf,1,160.02,0.1,144.02,58.37,Small Business,Card
+ORD-00686,2024-07-20,West,Technology,Headphones,2,109.97,0.0,219.94,85.39,Small Business,Card
+ORD-00687,2025-01-18,West,Home & Kitchen,Coffee Mug,2,103.96,0.15,176.73,72.33,Consumer,Card
+ORD-00688,2024-05-17,North,Office Supplies,Folders,1,4.44,0.2,3.55,1.62,Corporate,UPI
+ORD-00689,2025-10-17,North,Office Supplies,Printer Paper,3,42.43,0.05,120.93,59.31,Consumer,Cash
+ORD-00690,2025-01-14,North,Office Supplies,Notebook,2,24.79,0.05,47.1,15.84,Small Business,Bank Transfer
+ORD-00691,2025-07-24,East,Office Supplies,Pens Pack,2,17.68,0.15,30.06,7.78,Consumer,Cash
+ORD-00692,2025-05-06,East,Technology,Wireless Mouse,2,424.12,0.1,763.42,251.63,Small Business,Card
+ORD-00693,2024-08-19,West,Office Supplies,Pens Pack,5,38.52,0.1,173.34,72.21,Consumer,UPI
+ORD-00694,2025-04-04,West,Home & Kitchen,Desk Lamp,3,39.0,0.25,87.75,30.07,Small Business,UPI
+ORD-00695,2025-04-17,East,Office Supplies,Printer Paper,2,22.06,0.0,44.12,17.05,Small Business,Card
+ORD-00696,2025-06-28,West,Furniture,Desk,5,690.13,0.1,3105.59,1000.24,,Cash
+ORD-00697,2024-02-22,West,Furniture,Desk,2,508.29,0.15,864.09,211.12,Consumer,UPI
+ORD-00698,2025-11-21,South,Office Supplies,Pens Pack,2,31.47,0.05,59.79,13.49,Corporate,Card
+ORD-00699,2024-09-16,North,Technology,USB-C Hub,4,22.04,0.1,79.34,36.31,Consumer,Card
+ORD-00700,2025-03-17,North,Technology,Wireless Mouse,3,115.13,0.05,328.12,98.82,Consumer,Bank Transfer
+ORD-00701,2025-08-26,East,Office Supplies,Stapler,3,31.44,0.2,75.46,26.93,Consumer,Card
+ORD-00702,2025-06-26,North,Technology,Keyboard,1,161.18,0.2,128.94,31.19,Consumer,Bank Transfer
+ORD-00703,2025-08-24,West,Home & Kitchen,Organizer,3,41.18,0.15,105.01,51.66,Consumer,Card
+ORD-00704,2025-07-29,West,Technology,Wireless Mouse,3,262.32,0.1,708.26,309.41,Consumer,Card
+ORD-00705,2025-05-05,West,Home & Kitchen,Desk Lamp,4,65.17,0.0,260.68,131.62,Consumer,Card
+ORD-00706,2024-04-05,North,Office Supplies,Printer Paper,1,19.28,0.2,15.42,3.76,Corporate,Card
+ORD-00707,2024-09-04,North,Technology,Keyboard,1,72.85,0.15,61.92,19.07,Consumer,Bank Transfer
+ORD-00708,2024-07-30,East,Home & Kitchen,Desk Lamp,1,91.41,0.0,91.41,38.15,Corporate,Cash
+ORD-00709,2024-11-27,East,Office Supplies,Pens Pack,4,23.37,0.2,74.78,24.15,Corporate,Cash
+ORD-00710,2024-12-06,West,Furniture,Filing Cabinet,4,571.22,0.1,2056.39,940.95,Small Business,UPI
+ORD-00711,2025-10-12,South,Office Supplies,Pens Pack,6,34.79,0.0,208.74,46.5,Consumer,UPI
+ORD-00712,2025-03-13,East,Office Supplies,Printer Paper,1,34.85,0.25,26.14,10.6,Corporate,Bank Transfer
+ORD-00713,2024-05-22,North,Home & Kitchen,Desk Lamp,4,91.63,1.4,366.52,88.89,Corporate,Card
+ORD-00714,2025-06-02,North,Home & Kitchen,Organizer,2,53.36,0.05,101.38,30.05,Small Business,UPI
+ORD-00715,2025-10-14,North,Technology,USB-C Hub,1,258.05,0.1,232.25,58.84,Corporate,UPI
+ORD-00716,2024-01-06,East,Home & Kitchen,Water Bottle,4,39.59,0.0,158.36,49.2,Corporate,UPI
+ORD-00717,2024-12-26,West,Office Supplies,Pens Pack,5,25.92,0.1,116.64,53.6,Small Business,Cash
+ORD-00718,2024-07-02,East,Home & Kitchen,Storage Box,1,67.76,0.2,54.21,25.09,Corporate,Bank Transfer
+ORD-00719,2024-12-07,East,Technology,Monitor,2,320.39,0.1,576.7,135.32,Small Business,Cash
+ORD-00720,2024-11-24,Central,Home & Kitchen,Coffee Mug,2,48.07,0.1,86.53,38.74,Corporate,Card
+ORD-00721,2025-06-17,North,Furniture,Filing Cabinet,5,129.46,0.1,582.57,224.38,Consumer,Card
+ORD-00722,2025-03-22,South,Office Supplies,Stapler,1,20.07,0.15,17.06,7.77,Corporate,UPI
+ORD-00723,2025-11-09,East,Furniture,Bookshelf,2,332.87,0.15,565.88,238.13,Consumer,Card
+ORD-00724,2024-09-20,North,Office Supplies,Stapler,1,13.75,0.1,12.38,5.5,Consumer,Card
+ORD-00725,2024-04-18,North,Office Supplies,Printer Paper,3,10.38,0.0,31.14,13.23,Corporate,Bank Transfer
+ORD-00726,2024-03-13,East,Technology,Headphones,3,388.37,0.0,1165.11,381.44,Consumer,UPI
+ORD-00727,2025-11-22,South,Technology,Wireless Mouse,4,148.24,0.1,533.66,263.09,Consumer,Cash
+ORD-00728,2024-07-28,West,Furniture,Bookshelf,2,587.65,0.0,1175.3,363.77,Corporate,Cash
+ORD-00729,2024-06-07,South,Office Supplies,Stapler,2,7.94,0.1,14.29,5.25,Corporate,Card
+ORD-00730,2025-12-24,East,Technology,USB-C Hub,1,298.56,0.2,238.85,90.44,Consumer,Card
+ORD-00731,2025-10-05,North,Technology,Webcam,1,437.66,0.0,437.66,117.57,Small Business,Card
+ORD-00732,2024-04-11,West,Furniture,Desk,2,141.23,0.15,240.09,103.77,Small Business,UPI
+ORD-00733,2024-11-14,West,Home & Kitchen,Water Bottle,1,8.97,0.15,7.62,3.18,Consumer,Card
+ORD-00734,2025-10-02,East,Home & Kitchen,Desk Lamp,2,10.1,0.1,18.18,9.39,Consumer,Bank Transfer
+ORD-00735,2024-11-24,Central,Office Supplies,Stapler,2,41.11,0.15,69.89,33.2,Consumer,Cash
+ORD-00736,2024-02-24,South,Office Supplies,Folders,5,7.84,0.1,35.28,13.47,Corporate,UPI
+ORD-00737,2025-05-17,West,Home & Kitchen,Desk Lamp,2,25.38,0.15,43.15,15.53,Consumer,Card
+ORD-00738,2024-01-10,North,Furniture,Bookshelf,4,212.3,0.0,849.2,241.95,Consumer,UPI
+ORD-00739,2025-03-27,South,Technology,Headphones,1,250.63,0.05,238.1,76.53,Corporate,Cash
+ORD-00740,2024-09-14,West,Furniture,Office Chair,6,277.88,0.05,1583.92,492.54,Consumer,Card
+ORD-00741,2024-08-08,North,Furniture,Bookshelf,1,156.54,0.1,140.89,35.5,Consumer,UPI
+ORD-00742,2025-02-12,North,Home & Kitchen,Coffee Mug,3,30.79,0.15,78.51,30.26,Consumer,Card
+ORD-00743,2024-04-25,South,Office Supplies,Notebook,3,20.55,0.05,58.57,22.04,Consumer,Card
+ORD-00744,2025-11-01,West,Technology,Keyboard,1,185.98,0.15,158.08,78.93,Corporate,Cash
+ORD-00745,2024-02-10,North,Furniture,Desk,2,49.51,0.1,89.12,43.96,Corporate,UPI
+ORD-00746,2024-07-31,North,Home & Kitchen,Coffee Mug,4,16.93,0.0,67.72,22.83,Small Business,Cash
+ORD-00747,2025-04-13,West,Furniture,Desk,4,514.83,0.15,1750.42,898.64,Consumer,Card
+ORD-00748,2024-11-02,Central,Home & Kitchen,Storage Box,3,60.47,0.1,163.27,45.62,Consumer,UPI
+ORD-00749,2024-05-08,South,Office Supplies,Notebook,4,12.5,0.05,47.5,20.73,Corporate,Cash
+ORD-00750,2024-04-28,North,Technology,Headphones,3,421.13,0.1,1137.05,435.73,Small Business,Card
+ORD-00751,2025-11-27,South,Office Supplies,Stapler,2,28.6,0.15,48.62,20.16,Consumer,Bank Transfer
+ORD-00752,2025-02-06,West,Office Supplies,Folders,4,9.73,0.1,35.03,14.44,Consumer,Card
+ORD-00753,2024-07-10,West,Home & Kitchen,Storage Box,2,99.54,0.0,199.08,91.55,Corporate,UPI
+ORD-00754,2025-03-24,West,Technology,Headphones,1,184.74,0.1,166.27,37.81,Consumer,UPI
+ORD-00755,2024-12-11,West,Technology,Keyboard,2,149.41,0.15,254.0,97.87,Consumer,Card
+ORD-00756,2025-11-17,South,Technology,Webcam,4,244.34,0.05,928.49,382.25,Consumer,Card
+ORD-00757,2025-08-27,West,Office Supplies,Printer Paper,2,43.72,0.2,69.95,34.82,Consumer,UPI
+ORD-00758,2024-03-04,Central,Home & Kitchen,Storage Box,1,57.12,0.1,51.41,23.46,Consumer,Cash
+ORD-00759,2024-09-25,North,Office Supplies,Printer Paper,1,25.65,0.05,24.37,10.75,Corporate,UPI
+ORD-00760,2024-10-20,West,Home & Kitchen,Desk Lamp,3,8.76,0.0,26.28,11.48,Corporate,Bank Transfer
+ORD-00761,2025-02-16,West,Home & Kitchen,Organizer,3,40.33,0.15,102.84,34.78,Small Business,UPI
+ORD-00762,2024-06-16,Central,Technology,Keyboard,5,444.69,0.05,2112.28,1008.14,Corporate,Bank Transfer
+ORD-00763,2025-10-17,West,Furniture,Bookshelf,1,615.0,0.1,553.5,152.4,Consumer,Card
+ORD-00764,2025-11-14,West,Office Supplies,Folders,6,41.49,0.1,224.05,106.73,Small Business,Cash
+ORD-00765,2025-12-06,North,Technology,Webcam,1,169.72,0.15,144.26,63.23,Consumer,Card
+ORD-00766,2024-04-17,North,Furniture,Standing Desk,3,682.58,0.1,1842.97,470.15,Consumer,Bank Transfer
+ORD-00767,2025-03-29,North,Furniture,Office Chair,5,494.11,0.05,2347.02,835.04,Consumer,Bank Transfer
+ORD-00768,2025-11-07,West,Technology,Wireless Mouse,2,162.2,0.1,291.96,72.57,Small Business,Card
+ORD-00769,2025-02-06,East,Furniture,Filing Cabinet,2,356.56,0.05,677.46,172.38,Small Business,UPI
+ORD-00770,2025-10-14,North,Furniture,Office Chair,4,633.78,0.15,2154.85,809.28,Corporate,UPI
+ORD-00771,2024-06-12,West,Technology,Headphones,5,170.87,0.1,768.92,186.76,Consumer,Cash
+ORD-00772,2024-10-13,South,Home & Kitchen,Desk Lamp,1,72.74,0.2,58.19,29.68,Consumer,Cash
+ORD-00773,2024-10-07,North,Technology,Monitor,3,34.45,0.15,87.85,31.35,Consumer,Card
+ORD-00774,2025-06-20,South,Technology,USB-C Hub,3,272.08,0.15,693.8,167.13,Small Business,Cash
+ORD-00775,2025-01-15,North,Technology,Keyboard,4,188.82,0.05,717.52,200.0,Consumer,Bank Transfer
+ORD-00776,2024-02-28,South,Office Supplies,Printer Paper,2,14.94,0.05,28.39,14.54,Small Business,Cash
+ORD-00777,2024-04-06,Central,Home & Kitchen,Desk Lamp,1,23.84,0.15,20.26,6.88,Small Business,Cash
+ORD-00778,2024-01-05,North,Office Supplies,Pens Pack,2,29.79,0.2,47.66,21.01,Consumer,Cash
+ORD-00779,2024-04-02,East,Office Supplies,Printer Paper,2,23.06,0.1,41.51,15.65,Consumer,UPI
+ORD-00780,2025-02-18,Central,Furniture,Standing Desk,3,344.54,0.05,981.94,469.7,Small Business,UPI
+ORD-00781,2025-11-05,North,Office Supplies,Notebook,5,10.11,0.1,45.49,10.3,Corporate,Bank Transfer
+ORD-00782,2025-02-21,West,Technology,USB-C Hub,5,353.57,0.05,1679.46,627.06,Corporate,UPI
+ORD-00783,2024-04-07,South,Furniture,Office Chair,4,683.81,0.15,2324.95,643.07,Small Business,Cash
+ORD-00784,2025-08-16,South,Technology,USB-C Hub,1,103.35,0.1,93.02,40.38,Consumer,Card
+ORD-00785,2024-09-12,South,Office Supplies,Pens Pack,3,36.3,0.1,98.01,38.96,Consumer,Card
+ORD-00786,2024-03-22,North,Technology,Monitor,1,271.25,0.05,257.69,73.47,Consumer,Card
+ORD-00787,2025-01-27,South,Home & Kitchen,Desk Lamp,1,45.18,0.1,40.66,16.2,Corporate,UPI
+ORD-00788,2025-08-27,West,Office Supplies,Printer Paper,6,36.83,0.0,220.98,50.82,Corporate,Card
+ORD-00789,2025-06-29,East,Office Supplies,Notebook,5,6.16,0.2,24.64,7.56,Small Business,UPI
+ORD-00790,2024-05-06,North,Home & Kitchen,Storage Box,1,118.62,0.0,118.62,35.0,Consumer,Cash
+ORD-00791,2024-11-08,East,Office Supplies,Pens Pack,3,24.79,0.05,70.65,27.04,Consumer,UPI
+ORD-00792,2025-08-12,South,Office Supplies,Printer Paper,3,34.92,0.15,89.05,19.81,Corporate,UPI
+ORD-00793,2025-11-09,North,Office Supplies,Pens Pack,4,35.82,0.0,143.28,72.37,Consumer,UPI
+ORD-00794,2024-04-19,West,Furniture,Office Chair,1,445.2,0.2,356.16,89.59,Corporate,Bank Transfer
+ORD-00795,2024-02-20,North,Furniture,Bookshelf,3,466.35,0.1,1259.15,337.41,Small Business,Cash
+ORD-00796,2024-04-25,West,Furniture,Standing Desk,2,494.92,0.2,791.87,250.83,Corporate,Cash
+ORD-00797,2024-08-22,West,Home & Kitchen,Storage Box,2,19.74,0.15,33.56,9.01,Consumer,Cash
+ORD-00798,2025-02-20,West,Home & Kitchen,Organizer,2,99.53,0.05,189.11,51.89,Small Business,Card
+ORD-00799,2025-03-03,West,Furniture,Desk,2,202.32,0.15,343.94,110.42,Small Business,Card
+ORD-00800,2024-06-17,West,Technology,Keyboard,3,373.32,0.1,1007.96,257.75,Corporate,Card
+ORD-00801,2024-03-03,,Office Supplies,Notebook,3,24.23,0.0,72.69,33.77,Corporate,UPI
+ORD-00802,2024-05-17,East,Furniture,Office Chair,1,311.29,0.2,249.03,87.39,Corporate,Bank Transfer
+ORD-00803,2025-07-17,North,Furniture,Office Chair,4,668.28,0.15,2272.15,621.91,Small Business,UPI
+ORD-00804,2024-01-03,West,Home & Kitchen,Storage Box,1,46.28,0.15,39.34,17.02,Corporate,UPI
+ORD-00805,2024-06-06,South,Home & Kitchen,Organizer,3,81.71,0.2,196.1,91.83,Small Business,Card
+ORD-00806,2025-04-06,West,Home & Kitchen,Coffee Mug,2,104.92,0.1,188.86,76.52,Consumer,UPI
+ORD-00807,2024-04-15,West,Home & Kitchen,Water Bottle,5,115.26,0.0,576.3,250.1,Small Business,Bank Transfer
+ORD-00808,2024-10-31,,Furniture,Desk,3,520.04,0.25,1170.09,436.53,Small Business,UPI
+ORD-00809,2024-03-28,Central,Furniture,Standing Desk,5,221.4,0.1,996.3,392.77,Consumer,Card
+ORD-00810,2024-04-20,Central,Furniture,Bookshelf,2,359.77,0.1,647.59,324.96,Consumer,Bank Transfer
+ORD-00811,2024-07-22,Central,Technology,Headphones,2,376.24,0.15,639.61,247.43,Corporate,UPI
+ORD-00812,2024-02-19,North,Office Supplies,Stapler,5,10.96,0.05,52.06,25.97,Corporate,Cash
+ORD-00813,2025-09-03,Central,Office Supplies,Notebook,3,18.11,0.1,48.9,22.04,Small Business,Cash
+ORD-00814,2024-06-01,Central,Home & Kitchen,Organizer,2,7.36,0.15,12.51,5.65,Consumer,UPI
+ORD-00815,2024-12-27,South,Technology,Wireless Mouse,5,119.78,0.05,568.95,291.54,Small Business,Cash
+ORD-00816,2025-03-08,South,Furniture,Standing Desk,3,667.01,0.15,1700.88,708.17,Consumer,Card
+ORD-00817,2024-06-03,East,Home & Kitchen,Storage Box,1,101.11,0.0,101.11,23.63,Corporate,UPI
+ORD-00818,2025-08-13,East,Technology,Webcam,4,61.87,0.1,222.73,104.43,Consumer,Card
+ORD-00819,2025-07-29,South,Technology,Headphones,3,377.24,0.15,961.96,217.26,Consumer,Card
+ORD-00820,2025-01-30,Central,Furniture,Standing Desk,2,125.77,0.0,251.54,121.54,Consumer,UPI
+ORD-00821,2024-09-30,West,Technology,Keyboard,2,440.84,0.25,661.26,182.86,Corporate,UPI
+ORD-00822,2024-06-18,East,Technology,Webcam,2,25.31,0.15,43.03,16.84,Corporate,Card
+ORD-00823,2025-07-15,North,Office Supplies,Pens Pack,4,25.78,0.2,82.5,37.79,Small Business,Cash
+ORD-00824,2024-05-24,South,Furniture,Standing Desk,4,678.14,0.15,2305.68,1191.94,Consumer,UPI
+ORD-00825,2025-04-26,Central,Furniture,Office Chair,2,610.08,0.25,915.12,375.37,Consumer,UPI
+ORD-00826,2025-12-15,Central,Technology,Wireless Mouse,3,79.65,0.1,215.06,67.38,Corporate,UPI
+ORD-00827,2025-09-22,East,Office Supplies,Stapler,3,14.4,0.0,43.2,11.2,Consumer,Card
+ORD-00828,2024-03-19,North,Home & Kitchen,Desk Lamp,2,30.72,0.1,55.3,16.45,Small Business,Card
+ORD-00829,2025-03-20,South,Technology,Headphones,2,19.05,0.25,28.58,10.24,Corporate,UPI
+ORD-00830,2025-05-06,North,Furniture,Standing Desk,3,368.04,0.0,1104.12,366.96,Small Business,Bank Transfer
+ORD-00831,2025-06-11,North,Home & Kitchen,Coffee Mug,1,86.07,0.25,64.55,24.63,Consumer,Cash
+ORD-00832,2024-05-12,Central,Technology,USB-C Hub,4,58.53,0.05,222.41,60.66,Corporate,UPI
+ORD-00833,2024-10-07,East,Technology,Headphones,1,395.98,0.05,376.18,141.11,Corporate,Card
+ORD-00834,2024-01-25,Central,Home & Kitchen,Water Bottle,5,18.97,0.2,75.88,28.68,Consumer,UPI
+ORD-00835,2024-01-31,North,Office Supplies,Notebook,4,42.88,0.0,171.52,38.85,Corporate,Cash
+ORD-00836,2025-02-12,North,Home & Kitchen,Storage Box,3,27.38,0.1,73.93,26.74,Consumer,UPI
+ORD-00837,2025-12-17,North,Office Supplies,Printer Paper,4,36.4,0.2,116.48,32.33,Small Business,Card
+ORD-00838,2024-02-19,North,Technology,Wireless Mouse,1,280.0,0.0,280.0,110.15,Corporate,Bank Transfer
+ORD-00839,2025-11-08,South,Furniture,Desk,4,349.39,0.0,1397.56,695.51,Small Business,Bank Transfer
+ORD-00840,2025-10-13,South,Home & Kitchen,Water Bottle,1,47.09,0.1,42.38,13.61,Consumer,Cash
+ORD-00841,2025-01-10,North,Furniture,Standing Desk,6,422.21,0.05,2406.6,1002.15,Small Business,UPI
+ORD-00842,2025-08-21,West,Technology,Headphones,4,124.52,0.2,398.46,201.98,Corporate,Bank Transfer
+ORD-00843,2025-06-12,East,Office Supplies,Folders,1,42.65,0.05,40.52,11.46,Corporate,Cash
+ORD-00844,2025-12-06,North,Technology,USB-C Hub,1,244.23,0.0,244.23,61.91,Consumer,UPI
+ORD-00845,2025-08-31,Central,Technology,Webcam,1,325.63,0.0,325.63,75.9,Consumer,Card
+ORD-00846,2025-06-04,East,Office Supplies,Folders,3,2.5,0.0,7.5,2.03,Small Business,Cash
+ORD-00847,2024-07-18,Central,Technology,USB-C Hub,4,74.96,0.0,299.84,78.72,Corporate,UPI
+ORD-00848,2024-02-17,South,Office Supplies,Stapler,4,22.57,0.1,81.25,23.45,Consumer,UPI
+ORD-00849,2025-09-26,South,Office Supplies,Pens Pack,2,39.97,0.1,71.95,26.86,Small Business,UPI
+ORD-00850,2024-04-05,West,Office Supplies,Folders,3,36.35,0.0,109.05,25.67,Corporate,Bank Transfer
+ORD-00851,2024-05-05,North,Office Supplies,Folders,-1,26.33,0.15,89.52,35.65,Consumer,Cash
+ORD-00852,2024-11-09,North,Technology,USB-C Hub,3,123.46,0.15,314.82,150.87,Consumer,Cash
+ORD-00853,2025-10-03,Central,Office Supplies,Printer Paper,5,32.35,0.0,161.75,66.27,Consumer,UPI
+ORD-00854,2025-07-01,South,Office Supplies,Stapler,4,11.85,0.0,47.4,11.77,Consumer,Card
+ORD-00855,2024-08-30,West,Technology,USB-C Hub,4,252.52,0.0,1010.08,319.22,Small Business,Cash
+ORD-00856,2024-05-12,North,Technology,Webcam,2,160.3,0.1,288.54,105.33,Consumer,Cash
+ORD-00857,2024-10-27,East,Technology,Monitor,1,193.44,0.0,193.44,100.56,Consumer,Cash
+ORD-00858,2024-12-14,West,Home & Kitchen,Storage Box,3,29.7,0.05,84.64,36.47,Corporate,Card
+ORD-00859,2025-03-03,West,Furniture,Filing Cabinet,3,531.71,0.05,1515.37,356.46,Corporate,Cash
+ORD-00860,2025-07-13,West,Home & Kitchen,Organizer,3,7.58,0.2,18.19,7.09,Consumer,Cash
+ORD-00861,2025-12-21,East,Home & Kitchen,Storage Box,5,56.4,0.0,282.0,92.5,Small Business,Bank Transfer
+ORD-00862,2025-04-05,West,Home & Kitchen,Storage Box,2,58.33,0.15,99.16,40.31,Small Business,Cash
+ORD-00863,2024-09-30,East,Technology,Wireless Mouse,4,340.71,0.2,1090.27,551.34,Consumer,UPI
+ORD-00864,2025-08-05,South,Office Supplies,Stapler,4,39.34,0.1,141.62,70.64,Small Business,Card
+ORD-00865,2025-01-24,North,Technology,Headphones,4,115.19,0.15,391.65,191.07,Consumer,Bank Transfer
+ORD-00866,2024-03-14,East,Office Supplies,Folders,2,41.28,0.2,66.05,32.57,Consumer,Cash
+ORD-00867,2024-04-05,North,Furniture,Bookshelf,4,613.29,0.2,1962.53,488.76,Small Business,Card
+ORD-00868,2025-10-24,North,Office Supplies,Notebook,2,7.77,0.15,13.21,6.65,Small Business,Card
+ORD-00869,2025-01-11,West,Technology,Monitor,4,244.88,0.05,930.54,453.03,Consumer,UPI
+ORD-00870,2024-04-26,West,Furniture,Bookshelf,1,322.08,0.1,289.87,111.59,Small Business,Bank Transfer
+ORD-00871,2024-01-30,West,Technology,Wireless Mouse,5,367.88,0.05,1747.43,786.44,Consumer,Card
+ORD-00872,2025-03-16,East,Home & Kitchen,Water Bottle,3,77.63,0.2,186.31,42.08,Small Business,UPI
+ORD-00873,2024-10-05,South,Office Supplies,Folders,3,10.3,0.2,24.72,10.53,Corporate,Bank Transfer
+ORD-00874,2024-12-02,South,Furniture,Standing Desk,3,69.41,0.1,187.41,64.49,Corporate,Card
+ORD-00875,2025-01-29,South,Technology,Keyboard,1,148.49,0.2,118.79,45.46,Consumer,Card
+ORD-00876,2025-10-15,East,Technology,USB-C Hub,2,301.39,0.25,452.08,198.01,Consumer,UPI
+ORD-00877,2025-02-25,Central,Technology,Webcam,1,361.51,0.1,325.36,77.48,Corporate,UPI
+ORD-00878,2025-03-12,West,Technology,Wireless Mouse,1,312.41,0.2,249.93,126.11,Consumer,UPI
+ORD-00879,2024-04-15,West,Office Supplies,Stapler,4,44.79,0.1,161.24,78.73,Corporate,UPI
+ORD-00880,2025-04-11,Central,Technology,Monitor,1,408.08,0.0,408.08,179.04,Corporate,UPI
+ORD-00881,2025-01-27,West,Furniture,Filing Cabinet,1,78.76,0.15,66.95,30.06,Small Business,UPI
+ORD-00882,2024-08-24,North,Office Supplies,Printer Paper,3,22.77,0.0,68.31,22.9,Consumer,UPI
+ORD-00883,2024-09-08,East,Technology,Monitor,3,368.66,0.2,884.78,388.48,Corporate,Cash
+ORD-00884,2025-02-28,East,Technology,USB-C Hub,4,292.58,0.15,994.77,376.21,Consumer,Cash
+ORD-00885,2024-08-09,South,Furniture,Office Chair,3,344.36,0.1,929.77,209.27,Corporate,Bank Transfer
+ORD-00886,2025-12-30,West,Home & Kitchen,Storage Box,6,99.94,0.05,569.66,284.67,Small Business,Card
+ORD-00887,2025-07-30,West,Office Supplies,Printer Paper,1,16.51,0.0,16.51,4.5,Consumer,Cash
+ORD-00888,2024-07-11,West,Home & Kitchen,Desk Lamp,4,116.48,0.0,465.92,110.71,Consumer,Card
+ORD-00889,2025-12-04,South,Technology,USB-C Hub,3,441.21,0.0,1323.63,595.58,Corporate,UPI
+ORD-00890,2025-02-21,North,Furniture,Filing Cabinet,3,92.39,0.0,277.17,71.71,Consumer,Card
+ORD-00891,2025-05-22,South,Technology,Keyboard,1,150.05,0.0,150.05,59.71,Corporate,Bank Transfer
+ORD-00892,2024-09-27,Central,Home & Kitchen,Desk Lamp,2,47.16,0.2,75.46,28.15,Corporate,UPI
+ORD-00893,2025-11-13,North,Office Supplies,Notebook,5,23.57,0.15,100.17,23.01,Small Business,Cash
+ORD-00894,2024-04-18,East,Home & Kitchen,Storage Box,4,54.59,0.1,196.52,70.51,Corporate,Card
+ORD-00895,2024-03-12,West,Home & Kitchen,Storage Box,1,62.09,0.15,52.78,12.35,Consumer,Card
+ORD-00896,2024-04-21,West,Technology,Headphones,3,298.56,0.25,671.76,334.96,Consumer,Card
+ORD-00897,2025-01-08,South,Office Supplies,Notebook,2,36.66,0.05,69.65,31.46,Consumer,Bank Transfer
+ORD-00898,2025-11-01,North,Office Supplies,Stapler,1,27.32,0.15,23.22,5.24,Consumer,Bank Transfer
+ORD-00899,2025-08-15,East,Home & Kitchen,Organizer,1,50.95,0.0,50.95,20.44,Consumer,Card
+ORD-00900,2024-02-09,South,Home & Kitchen,Desk Lamp,1,106.9,0.2,85.52,31.02,Small Business,UPI
+ORD-00901,2025-05-09,South,Furniture,Bookshelf,1,289.59,0.1,260.63,89.11,Corporate,UPI
+ORD-00902,2025-09-02,Central,Technology,Monitor,2,210.42,0.05,399.8,146.79,Consumer,Cash
+ORD-00903,2024-09-18,North,Office Supplies,Pens Pack,1,41.96,0.0,41.96,21.75,Corporate,Card
+ORD-00904,2025-08-06,North,Furniture,Office Chair,1,422.51,0.05,401.38,208.1,Consumer,Card
+ORD-00905,2025-01-04,East,Office Supplies,Stapler,4,24.95,0.05,94.81,29.69,Consumer,UPI
+ORD-00906,2024-12-19,East,Technology,Monitor,3,223.55,0.05,637.12,219.68,Corporate,Card
+ORD-00907,2025-11-21,West,Office Supplies,Pens Pack,1,40.31,0.0,40.31,15.86,Small Business,Cash
+ORD-00908,2025-03-21,East,Office Supplies,Notebook,3,16.79,0.05,47.85,11.19,Corporate,Bank Transfer
+ORD-00909,2025-11-03,North,Furniture,Standing Desk,5,99.06,0.2,396.24,150.73,Corporate,UPI
+ORD-00910,2024-04-12,East,Technology,Webcam,2,366.92,0.0,733.84,209.82,Small Business,UPI
+ORD-00911,2024-02-25,West,Home & Kitchen,Coffee Mug,2,89.31,0.2,142.9,53.45,Consumer,Cash
+ORD-00912,2025-01-18,West,Office Supplies,Pens Pack,2,10.49,0.2,16.78,5.46,Consumer,Card
+ORD-00913,2024-09-08,North,Office Supplies,Printer Paper,1,28.47,0.05,27.05,13.42,Corporate,UPI
+ORD-00914,2025-07-20,West,Technology,Headphones,2,260.36,0.1,468.65,118.72,Consumer,Card
+ORD-00915,2025-02-08,North,Furniture,Desk,1,195.48,0.15,166.16,52.24,Consumer,Card
+ORD-00916,2024-06-14,North,Technology,Wireless Mouse,2,429.21,0.25,643.81,242.91,Corporate,Cash
+ORD-00917,2024-02-28,West,Office Supplies,Printer Paper,4,38.93,0.15,132.36,68.77,Consumer,UPI
+ORD-00918,2024-01-23,Central,Furniture,Office Chair,5,394.81,0.25,1480.54,409.84,Consumer,Bank Transfer
+ORD-00919,2025-09-04,West,Office Supplies,Printer Paper,3,38.16,0.25,85.86,35.78,Consumer,Card
+ORD-00920,2024-09-08,East,Furniture,Standing Desk,5,66.71,0.1,300.19,109.77,Consumer,Card
+ORD-00921,2024-01-13,East,Office Supplies,Stapler,1,34.84,0.25,26.13,7.28,Small Business,Cash
+ORD-00922,2024-08-13,South,Furniture,Desk,1,231.62,0.2,185.3,90.92,Corporate,Cash
+ORD-00923,2025-01-14,West,Technology,Monitor,2,243.02,0.0,486.04,172.52,Consumer,Cash
+ORD-00924,2024-04-17,South,Office Supplies,Pens Pack,2,38.15,0.15,64.85,19.67,Consumer,Card
+ORD-00925,2025-02-20,South,Office Supplies,Pens Pack,1,24.28,0.1,21.85,11.12,Small Business,Cash
+ORD-00926,2024-08-20,Central,Office Supplies,Printer Paper,1,25.12,0.0,25.12,10.87,Consumer,UPI
+ORD-00927,2025-10-05,North,Technology,USB-C Hub,3,287.07,0.0,861.21,191.29,Consumer,Cash
+ORD-00928,2024-09-03,West,Furniture,Desk,2,625.89,0.2,1001.42,342.05,Consumer,Cash
+ORD-00929,2025-05-27,South,Technology,Keyboard,1,316.67,0.0,316.67,131.16,Corporate,Card
+ORD-00930,2025-11-07,North,Technology,Webcam,1,426.16,0.15,362.24,87.48,Corporate,Card
+ORD-00931,2025-02-14,East,Office Supplies,Pens Pack,2,21.48,0.2,34.37,8.68,Consumer,Card
+ORD-00932,2024-07-13,East,Technology,Headphones,2,192.9,0.15,327.93,157.04,Consumer,UPI
+ORD-00933,2024-09-11,Central,Technology,Webcam,1,281.81,0.1,253.63,126.07,Consumer,Cash
+ORD-00934,2025-05-10,East,Office Supplies,Folders,2,24.42,0.05,46.4,19.35,Small Business,Cash
+ORD-00935,2025-01-30,North,Office Supplies,Folders,3,3.94,0.1,10.64,3.1,Small Business,Card
+ORD-00936,2025-11-19,Central,Home & Kitchen,Organizer,3,78.22,0.2,187.73,75.04,Small Business,Bank Transfer
+ORD-00937,2024-01-14,West,Furniture,Bookshelf,4,323.16,0.25,969.48,338.25,Consumer,Bank Transfer
+ORD-00938,2024-04-02,East,Office Supplies,Pens Pack,4,24.28,0.0,97.12,44.98,Small Business,UPI
+ORD-00939,2024-11-25,North,Technology,Keyboard,2,422.73,0.1,760.91,231.61,Consumer,Card
+ORD-00940,2025-08-06,Central,Home & Kitchen,Water Bottle,2,102.27,0.15,173.86,63.89,Consumer,UPI
+ORD-00941,2024-08-14,East,Office Supplies,Printer Paper,2,12.88,0.05,24.47,7.61,Consumer,Bank Transfer
+ORD-00942,2025-12-07,West,Office Supplies,Stapler,2,42.87,0.15,72.88,22.24,Corporate,Cash
+ORD-00943,2025-10-01,West,Office Supplies,Printer Paper,2,9.29,0.15,15.79,5.47,Corporate,UPI
+ORD-00944,2024-09-18,West,Technology,Keyboard,1,154.05,0.15,130.94,56.67,Consumer,Bank Transfer
+ORD-00945,2025-10-07,East,Furniture,Bookshelf,2,174.93,0.15,297.38,151.83,Corporate,Bank Transfer
+ORD-00946,2024-03-20,East,Technology,Headphones,3,268.21,0.0,804.63,313.24,Corporate,Card
+ORD-00947,2025-11-29,North,Technology,Headphones,4,198.51,0.1,714.64,232.47,Consumer,UPI
+ORD-00948,2025-01-21,South,Home & Kitchen,Water Bottle,2,55.86,0.15,94.96,39.67,Consumer,UPI
+ORD-00949,2025-05-09,East,Home & Kitchen,Organizer,2,14.38,0.1,25.88,12.12,Consumer,UPI
+ORD-00950,2024-07-26,Central,Technology,Headphones,1,418.91,0.0,418.91,179.09,Corporate,UPI
+ORD-00951,2025-06-13,East,Office Supplies,Notebook,2,10.27,0.0,20.54,8.74,Consumer,UPI
+ORD-00952,2024-09-15,North,Office Supplies,Printer Paper,1,29.73,0.1,26.76,6.35,Small Business,Card
+ORD-00953,2024-01-09,North,Office Supplies,Folders,1,17.93,0.0,17.93,4.18,Consumer,Cash
+ORD-00954,2024-08-11,West,Technology,Headphones,4,242.51,0.1,873.04,362.24,Small Business,Cash
+ORD-00955,2024-05-15,East,Home & Kitchen,Storage Box,3,111.32,0.1,300.56,130.55,Consumer,UPI
+ORD-00956,2025-04-20,West,Technology,Monitor,5,351.71,0.05,1670.62,664.6,Small Business,Bank Transfer
+ORD-00957,2024-02-20,North,Home & Kitchen,Water Bottle,1,105.92,0.0,105.92,36.46,Consumer,UPI
+ORD-00958,2024-06-07,West,Furniture,Desk,4,96.26,0.0,385.04,124.8,Consumer,UPI
+ORD-00959,2024-03-14,East,Technology,Headphones,1,21.64,0.2,17.31,5.67,Small Business,Cash
+ORD-00960,2025-04-14,North,Home & Kitchen,Storage Box,1,44.84,0.05,42.6,21.84,Corporate,Card
+ORD-00961,2024-03-06,North,Home & Kitchen,Organizer,2,14.6,0.05,27.74,8.08,Small Business,Cash
+ORD-00962,2025-04-19,West,Office Supplies,Printer Paper,4,27.45,0.15,93.33,45.62,Consumer,UPI
+ORD-00963,2024-05-02,East,Furniture,Desk,3,102.26,0.05,291.44,92.88,Small Business,Card
+ORD-00964,2025-12-26,North,Technology,Headphones,2,216.74,0.0,433.48,143.1,Consumer,Card
+ORD-00965,2024-07-21,West,Technology,Keyboard,1,55.7,0.15,47.34,21.33,Corporate,Bank Transfer
+ORD-00966,2024-03-04,Central,Home & Kitchen,Water Bottle,4,62.4,0.0,249.6,92.8,Consumer,Card
+ORD-00967,2025-11-27,West,Technology,Headphones,2,111.6,0.1,200.88,80.42,Corporate,UPI
+ORD-00968,2025-08-10,North,Furniture,Desk,5,317.71,0.0,1588.55,429.51,Corporate,Card
+ORD-00969,2024-05-08,East,Office Supplies,Folders,4,8.41,0.15,28.59,11.73,Corporate,Card
+ORD-00970,2025-07-17,Central,Furniture,Bookshelf,1,290.79,0.1,261.71,125.17,Small Business,Cash
+ORD-00971,2024-02-27,South,Home & Kitchen,Desk Lamp,2,39.45,0.1,71.01,29.08,Corporate,Card
+ORD-00972,2024-03-08,West,Home & Kitchen,Storage Box,2,18.48,0.15,31.42,8.46,Corporate,Bank Transfer
+ORD-00973,2025-07-26,North,Furniture,Standing Desk,2,,0.0,801.24,219.46,Corporate,Cash
+ORD-00974,2025-10-14,South,Technology,Headphones,2,398.85,0.0,797.7,359.12,Corporate,Bank Transfer
+ORD-00975,2025-01-26,West,Office Supplies,Notebook,5,15.28,0.2,61.12,24.65,Consumer,Cash
+ORD-00976,2024-05-31,East,Office Supplies,Notebook,4,24.01,0.1,86.44,39.92,Corporate,UPI
+ORD-00977,2024-12-24,East,Furniture,Filing Cabinet,5,199.4,0.05,947.15,403.38,Consumer,Card
+ORD-00978,2025-06-07,South,Technology,Headphones,2,153.08,0.0,306.16,124.69,,Bank Transfer
+ORD-00979,2025-11-15,West,Office Supplies,Notebook,1,28.35,0.0,28.35,14.27,Consumer,Card
+ORD-00980,2025-11-18,North,Office Supplies,Stapler,4,20.03,0.0,80.12,26.7,Consumer,UPI
+ORD-00981,2025-02-08,South,Technology,Headphones,4,428.02,0.05,1626.48,805.79,Consumer,Bank Transfer
+ORD-00982,2025-03-02,Central,Office Supplies,Stapler,6,42.9,0.25,193.05,82.27,Corporate,Card
+ORD-00983,2025-03-12,South,Technology,Monitor,1,94.16,0.1,84.74,40.78,Small Business,Cash
+ORD-00984,2024-10-25,West,Technology,USB-C Hub,2,329.62,0.25,494.43,243.61,Corporate,UPI
+ORD-00985,2024-05-18,South,Technology,Keyboard,1,448.28,0.0,448.28,182.87,Consumer,UPI
+ORD-00986,2025-03-14,East,Technology,USB-C Hub,3,403.91,0.2,969.38,224.13,Consumer,Card
+ORD-00987,2024-09-06,North,Furniture,Filing Cabinet,3,576.58,0.2,1383.79,410.33,Consumer,Card
+ORD-00988,2024-04-20,South,Home & Kitchen,Coffee Mug,1,112.23,0.2,89.78,37.82,Small Business,UPI
+ORD-00989,2025-06-18,West,Office Supplies,Folders,4,39.05,0.25,117.15,57.3,Consumer,Cash
+ORD-00990,2025-06-06,Central,Furniture,Office Chair,3,338.17,0.1,913.06,383.16,Corporate,UPI
+ORD-00991,2024-01-23,West,Home & Kitchen,Organizer,4,69.63,0.0,278.52,83.62,Consumer,Cash
+ORD-00992,2024-03-03,South,Office Supplies,Stapler,6,37.16,0.15,189.52,98.16,Small Business,Card
+ORD-00993,2024-04-08,East,Furniture,Filing Cabinet,1,598.44,0.15,508.67,210.98,Consumer,Cash
+ORD-00994,2025-09-18,North,Office Supplies,Folders,2,27.5,0.2,44.0,22.83,Consumer,Card
+ORD-00995,2025-05-20,East,Office Supplies,Printer Paper,3,23.41,0.0,70.23,20.9,Consumer,Cash
+ORD-00996,2024-07-30,West,Home & Kitchen,Water Bottle,5,98.73,0.1,444.29,182.02,Corporate,Card
+ORD-00997,2025-08-25,South,Home & Kitchen,Coffee Mug,2,9.0,0.15,15.3,4.86,Small Business,Bank Transfer
+ORD-00998,2025-09-16,North,Office Supplies,Notebook,4,36.73,0.1,132.23,32.96,Consumer,Card
+ORD-00999,2024-07-13,Central,Technology,USB-C Hub,2,315.48,0.1,567.86,218.73,Corporate,Card
+ORD-01000,2025-12-04,Central,Furniture,Office Chair,5,275.67,0.15,1171.6,493.41,Consumer,Card
+ORD-01001,2024-10-30,West,Office Supplies,Notebook,3,5.22,0.2,12.53,3.24,Corporate,UPI
+ORD-01002,2024-02-29,Central,Office Supplies,Printer Paper,2,38.92,0.2,62.27,16.57,Consumer,Cash
+ORD-01003,2024-03-30,West,Office Supplies,Notebook,1,16.79,0.25,12.59,6.33,Small Business,Bank Transfer
+ORD-01004,2025-12-23,South,Technology,Headphones,2,449.11,0.2,718.58,305.07,Consumer,Card
+ORD-01005,2025-09-23,North,Office Supplies,Printer Paper,6,19.06,0.0,114.36,49.74,Corporate,UPI
+ORD-01006,2025-03-20,East,Furniture,Standing Desk,1,532.76,0.15,452.85,123.3,Small Business,Cash
+ORD-01007,2025-01-21,West,Furniture,Desk,2,520.53,0.1,936.95,311.8,Consumer,Card
+ORD-01008,2024-07-15,West,Home & Kitchen,Desk Lamp,1,95.51,0.0,95.51,42.09,Consumer,Card
+ORD-01009,2024-09-09,East,Office Supplies,Printer Paper,2,2.03,0.1,3.65,1.76,Corporate,UPI
+ORD-01010,2024-09-07,East,Office Supplies,Notebook,1,26.61,0.2,21.29,8.73,Small Business,Bank Transfer
+ORD-01011,2025-05-29,West,Technology,USB-C Hub,5,199.71,0.1,898.7,371.48,Consumer,Cash
+ORD-01012,2025-12-29,North,Furniture,Standing Desk,6,669.44,0.2,3213.31,1171.86,Consumer,Cash
+ORD-01013,2024-02-25,East,Office Supplies,Folders,2,37.95,0.05,72.11,36.69,Consumer,Cash
+ORD-01014,2024-12-13,,Technology,USB-C Hub,2,316.51,0.05,601.37,233.55,Consumer,Card
+ORD-01015,2024-12-28,East,Office Supplies,Pens Pack,2,39.68,0.1,71.42,31.46,Consumer,Card
+ORD-01016,2024-06-18,Central,Technology,Keyboard,2,322.83,0.0,645.66,191.6,Corporate,Cash
+ORD-01017,2025-10-15,North,Technology,USB-C Hub,2,343.85,0.15,584.55,299.29,Corporate,Bank Transfer
+ORD-01018,2025-11-05,Central,Office Supplies,Notebook,2,43.54,0.0,87.08,24.81,Corporate,Card
+ORD-01019,2024-10-26,West,Technology,Webcam,3,357.15,0.1,964.3,369.34,Small Business,Card
+ORD-01020,2025-02-17,North,Technology,USB-C Hub,1,323.2,0.2,258.56,102.47,Consumer,UPI
+ORD-01021,2025-03-03,Central,Furniture,Desk,3,229.5,0.1,619.65,181.41,Consumer,Cash
+ORD-01022,2025-08-30,South,Technology,Webcam,-1,145.88,0.0,583.52,198.57,Corporate,Card
+ORD-01023,2024-11-22,West,Office Supplies,Printer Paper,1,3.63,0.2,2.9,1.0,Consumer,UPI
+ORD-01024,2025-12-23,North,Technology,Webcam,1,184.95,0.25,138.71,43.17,Consumer,Bank Transfer
+ORD-01025,2024-06-19,South,Furniture,Office Chair,1,473.7,0.15,402.64,146.18,Corporate,Card
+ORD-01026,2024-06-05,North,Furniture,Desk,1,500.39,0.0,500.39,204.22,Corporate,Cash
+ORD-01027,2024-08-12,West,Office Supplies,Printer Paper,1,38.89,0.05,36.95,17.11,Consumer,Card
+ORD-01028,2024-09-30,West,Office Supplies,Folders,2,10.71,0.0,21.42,8.17,Corporate,Bank Transfer
+ORD-01029,2024-04-22,South,Furniture,Bookshelf,2,690.21,0.0,1380.42,307.95,Corporate,Cash
+ORD-01030,2024-12-08,Central,Home & Kitchen,Storage Box,4,21.96,0.15,74.66,21.33,Small Business,Bank Transfer
+ORD-01031,2024-06-17,West,Furniture,Desk,1,688.89,0.25,516.67,201.74,Corporate,Card
+ORD-01032,2024-11-30,South,Office Supplies,Printer Paper,4,34.38,0.05,130.64,48.6,Corporate,Card
+ORD-01033,2024-06-14,West,Office Supplies,Printer Paper,6,15.93,0.0,95.58,35.75,Consumer,Card
+ORD-01034,2024-03-26,North,Office Supplies,Stapler,3,13.48,0.15,34.37,11.08,Consumer,UPI
+ORD-01035,2025-09-14,West,Office Supplies,Stapler,1,14.09,0.15,11.98,3.27,Consumer,Cash
+ORD-01036,2024-08-30,Central,Furniture,Bookshelf,1,36.76,0.0,36.76,13.44,Corporate,Card
+ORD-01037,2025-01-15,West,Technology,Monitor,2,109.93,0.1,197.87,43.87,Consumer,Cash
+ORD-01038,2024-02-01,Central,Furniture,Desk,2,642.55,0.0,1285.1,318.11,Corporate,Cash
+ORD-01039,2025-04-30,South,Home & Kitchen,Coffee Mug,4,38.65,0.0,154.6,35.12,Corporate,Card
+ORD-01040,2025-09-21,West,Office Supplies,Printer Paper,1,39.82,0.0,39.82,14.52,Consumer,Card
+ORD-01041,2025-07-28,Central,Technology,USB-C Hub,1,305.24,0.1,274.72,102.58,Corporate,UPI
+ORD-01042,2025-07-12,South,Technology,Wireless Mouse,2,235.43,0.15,400.23,186.61,Consumer,Card
+ORD-01043,2025-03-08,North,Technology,Webcam,2,55.71,0.2,89.14,29.94,Consumer,UPI
+ORD-01044,2024-06-26,Central,Office Supplies,Notebook,2,9.81,0.1,17.66,8.51,Corporate,UPI
+ORD-01045,2025-07-26,North,Furniture,Bookshelf,1,102.76,0.2,82.21,27.02,Small Business,Card
+ORD-01046,2024-07-28,South,Home & Kitchen,Coffee Mug,4,104.08,0.1,374.69,128.08,Consumer,Card
+ORD-01047,2025-01-06,West,Furniture,Desk,2,104.71,0.0,209.42,106.93,Consumer,UPI
+ORD-01048,2024-01-03,South,Office Supplies,Pens Pack,2,38.19,0.2,61.1,16.46,Consumer,Bank Transfer
+ORD-01049,2024-11-03,South,Office Supplies,Printer Paper,3,43.61,0.0,130.83,63.5,Consumer,Card
+ORD-01050,2024-02-10,West,Home & Kitchen,Water Bottle,2,29.69,0.15,50.47,18.25,Small Business,Bank Transfer
+ORD-01051,2024-07-22,North,Office Supplies,Notebook,4,35.56,0.2,113.79,58.13,Corporate,Card
+ORD-01052,2025-08-07,North,Furniture,Office Chair,2,513.76,0.05,976.14,215.78,Consumer,Card
+ORD-01053,2025-01-08,West,Technology,Monitor,3,362.47,0.05,1033.04,367.31,Corporate,UPI
+ORD-01054,2024-12-23,East,Office Supplies,Folders,1,17.16,0.2,13.73,5.35,Small Business,Bank Transfer
+ORD-01055,2024-02-07,South,Technology,Keyboard,4,121.42,0.0,485.68,251.19,Small Business,Card
+ORD-01056,2025-10-21,North,Home & Kitchen,Water Bottle,6,116.81,0.1,630.77,291.62,Consumer,UPI
+ORD-01057,2025-02-24,East,Technology,Webcam,4,256.8,0.05,975.84,321.85,Corporate,Bank Transfer
+ORD-01058,2025-03-11,East,Office Supplies,Pens Pack,2,27.38,0.1,49.28,11.29,Consumer,Cash
+ORD-01059,2025-02-24,North,Home & Kitchen,Coffee Mug,4,36.44,0.05,138.47,49.95,Consumer,Card
+ORD-01060,2025-02-11,Central,Technology,Monitor,2,201.2,0.1,362.16,124.48,Consumer,Card
+ORD-01061,2024-02-28,North,Furniture,Bookshelf,1,70.91,0.1,63.82,32.14,Consumer,Bank Transfer
+ORD-01062,2025-05-10,West,Office Supplies,Pens Pack,3,11.57,0.0,34.71,15.03,Corporate,UPI
+ORD-01063,2024-07-16,East,Home & Kitchen,Coffee Mug,2,110.23,0.1,198.41,92.01,Small Business,Card
+ORD-01064,2024-07-13,East,Furniture,Standing Desk,5,632.02,0.1,2844.09,1393.48,Consumer,Card
+ORD-01065,2024-07-26,South,Office Supplies,Stapler,2,23.44,0.05,44.54,22.4,Corporate,Card
+ORD-01066,2024-09-14,West,Office Supplies,Stapler,3,42.89,0.15,109.37,25.42,Consumer,Card
+ORD-01067,2025-06-02,Central,Home & Kitchen,Desk Lamp,3,63.54,0.0,190.62,55.29,Consumer,UPI
+ORD-01068,2025-11-22,South,Office Supplies,Notebook,3,5.18,0.0,15.54,5.37,Consumer,UPI
+ORD-01069,2024-03-20,Central,Furniture,Filing Cabinet,2,365.01,0.15,620.52,146.38,Consumer,Bank Transfer
+ORD-01070,2024-01-24,East,Office Supplies,Folders,1,14.49,0.05,13.77,6.36,Consumer,Bank Transfer
+ORD-01071,2024-07-19,South,Home & Kitchen,Organizer,4,86.47,0.1,311.29,69.98,Small Business,Card
+ORD-01072,2024-03-17,East,Office Supplies,Notebook,2,10.85,0.2,17.36,8.99,Consumer,Card
+ORD-01073,2025-07-11,Central,Office Supplies,Pens Pack,1,9.75,0.0,9.75,2.78,Consumer,UPI
+ORD-01074,2024-12-24,North,Office Supplies,Pens Pack,1,26.93,0.1,24.24,12.52,Consumer,UPI
+ORD-01075,2024-07-17,West,Home & Kitchen,Water Bottle,3,87.22,0.1,235.49,82.43,Small Business,UPI
+ORD-01076,2024-01-26,West,Home & Kitchen,Organizer,2,85.58,0.1,154.04,54.63,,UPI
+ORD-01077,2025-03-16,North,Office Supplies,Printer Paper,4,29.95,0.0,119.8,42.77,Corporate,Card
+ORD-01078,2024-07-07,North,Office Supplies,Folders,3,33.45,0.1,90.32,40.61,Consumer,Bank Transfer
+ORD-01079,2025-07-20,South,Office Supplies,Pens Pack,4,7.87,0.1,28.33,10.37,Corporate,Cash
+ORD-01080,2025-05-28,South,Home & Kitchen,Storage Box,2,40.06,0.2,64.1,21.17,Consumer,UPI
+ORD-01081,2024-06-26,Central,Furniture,Filing Cabinet,6,677.85,0.1,3660.39,1322.54,Corporate,Bank Transfer
+ORD-01082,2024-07-11,West,Technology,Webcam,4,169.55,0.15,576.47,289.21,Corporate,UPI
+ORD-01083,2024-09-11,South,Furniture,Standing Desk,2,499.8,0.15,849.66,316.16,Consumer,Cash
+ORD-01084,2025-10-12,East,Furniture,Office Chair,3,150.86,0.1,407.32,160.53,Consumer,Bank Transfer
+ORD-01085,2025-11-30,North,Home & Kitchen,Water Bottle,2,20.33,0.1,36.59,14.26,Consumer,Card
+ORD-01086,2025-07-17,South,Technology,Webcam,1,154.13,0.15,131.01,56.67,Corporate,Bank Transfer
+ORD-01087,2025-11-02,North,Office Supplies,Stapler,1,5.04,0.0,5.04,2.44,Corporate,Bank Transfer
+ORD-01088,2025-08-28,North,Furniture,Office Chair,1,134.61,0.25,100.96,31.71,Small Business,UPI
+ORD-01089,2024-04-05,Central,Furniture,Bookshelf,1,177.51,0.05,168.63,87.44,Consumer,Cash
+ORD-01090,2025-06-21,Central,Office Supplies,Pens Pack,1,21.45,0.15,18.23,8.04,Corporate,UPI
+ORD-01091,2024-07-16,South,Home & Kitchen,Organizer,1,22.82,0.0,22.82,10.95,Consumer,Cash
+ORD-01092,2025-08-28,West,Home & Kitchen,Organizer,1,90.2,0.1,81.18,32.29,Consumer,Cash
+ORD-01093,2025-03-16,South,Home & Kitchen,Storage Box,3,21.5,0.05,61.27,30.95,Consumer,UPI
+ORD-01094,2025-09-08,East,Office Supplies,Stapler,2,5.22,0.15,8.87,3.41,Small Business,UPI
+ORD-01095,2024-02-02,West,Technology,Monitor,3,302.57,0.05,862.32,205.58,Consumer,UPI
+ORD-01096,2024-04-27,Central,Technology,Wireless Mouse,6,283.81,0.0,1702.86,697.87,Consumer,Card
+ORD-01097,2024-05-17,South,Technology,Monitor,1,155.84,0.1,140.26,35.95,Consumer,Bank Transfer
+ORD-01098,2025-09-28,East,Home & Kitchen,Storage Box,3,25.79,0.05,73.5,16.86,Consumer,UPI
+ORD-01099,2024-02-01,West,Furniture,Office Chair,5,381.36,0.15,1620.78,494.01,Consumer,Card
+ORD-01100,2024-10-17,West,Home & Kitchen,Desk Lamp,2,97.13,0.15,165.12,72.7,Consumer,Cash
+ORD-01101,2025-11-02,North,Technology,Keyboard,1,300.66,0.15,255.56,62.01,Consumer,Cash
+ORD-01102,2024-04-23,North,Home & Kitchen,Storage Box,2,20.24,0.1,36.43,17.13,Consumer,UPI
+ORD-01103,2024-01-18,East,Office Supplies,Pens Pack,1,36.2,0.15,30.77,13.9,Consumer,Bank Transfer
+ORD-01104,2025-03-07,East,Home & Kitchen,Coffee Mug,1,27.24,0.0,27.24,12.26,Consumer,Cash
+ORD-01105,2025-06-17,Central,Home & Kitchen,Desk Lamp,1,64.65,0.05,61.42,31.84,Corporate,UPI
+ORD-01106,2024-08-19,Central,Office Supplies,Stapler,1,40.93,0.0,40.93,20.04,Consumer,Bank Transfer
+ORD-01107,2024-01-31,East,Furniture,Desk,5,452.23,0.15,1921.98,786.09,Consumer,Bank Transfer
+ORD-01108,2024-08-18,East,Home & Kitchen,Coffee Mug,3,81.96,0.0,245.88,74.65,Corporate,UPI
+ORD-01109,2024-07-17,South,Technology,Keyboard,4,347.63,0.15,1181.94,590.17,Consumer,Card
+ORD-01110,2024-02-07,West,Office Supplies,Notebook,2,37.83,0.15,64.31,23.59,Consumer,UPI
+ORD-01111,2024-11-12,Central,Office Supplies,Notebook,2,23.91,0.1,43.04,17.18,Corporate,UPI
+ORD-01112,2024-06-28,North,Furniture,Standing Desk,3,690.67,0.1,1864.81,699.12,Consumer,Bank Transfer
+ORD-01113,2024-03-26,West,Office Supplies,Printer Paper,3,34.66,0.0,103.98,37.33,Consumer,Card
+ORD-01114,2025-02-12,Central,Home & Kitchen,Coffee Mug,4,48.8,0.1,175.68,77.28,Corporate,Cash
+ORD-01115,2024-04-06,West,Office Supplies,Notebook,2,26.51,0.05,50.37,21.01,Corporate,Card
+ORD-01116,2024-11-24,West,Furniture,Desk,4,343.36,0.05,1304.77,598.87,Corporate,Cash
+ORD-01117,2025-03-06,North,Office Supplies,Printer Paper,1,41.9,0.05,39.8,15.79,Corporate,Card
+ORD-01118,2025-10-14,North,Technology,Headphones,3,398.7,0.0,1196.1,300.48,Corporate,Card
+ORD-01119,2024-05-27,Central,Furniture,Standing Desk,1,127.2,0.0,127.2,55.52,Corporate,Cash
+ORD-01120,2024-05-10,East,Home & Kitchen,Organizer,3,37.44,0.2,89.86,34.02,Consumer,UPI
+ORD-01121,2025-12-24,North,Office Supplies,Notebook,1,6.2,0.1,5.58,1.25,Corporate,Card
+ORD-01122,2024-11-14,North,Technology,Monitor,1,287.95,0.0,287.95,135.03,Consumer,Card
+ORD-01123,2024-07-29,Central,Office Supplies,Stapler,5,12.0,0.2,48.0,17.69,Corporate,UPI
+ORD-01124,2025-06-08,North,Office Supplies,Pens Pack,2,20.96,0.0,41.92,15.1,Small Business,UPI
+ORD-01125,2024-07-02,East,Furniture,Desk,1,226.72,0.0,226.72,117.13,Corporate,Cash
+ORD-01126,2024-11-24,South,Home & Kitchen,Water Bottle,1,23.3,0.0,23.3,6.96,Consumer,Card
+ORD-01127,2025-01-28,South,Technology,Monitor,2,97.31,0.15,165.43,84.09,Consumer,UPI
+ORD-01128,2024-05-14,South,Furniture,Bookshelf,5,472.1,0.2,1888.4,439.0,Small Business,UPI
+ORD-01129,2024-08-29,West,Home & Kitchen,Storage Box,3,26.06,0.0,78.18,24.57,Consumer,UPI
+ORD-01130,2025-01-28,South,Office Supplies,Notebook,1,2.85,0.2,2.28,0.8,,Card
+ORD-01131,2025-06-22,South,Technology,Webcam,3,93.0,0.2,223.2,80.0,Consumer,Cash
+ORD-01132,2025-01-18,West,Technology,Keyboard,6,427.42,0.15,2179.84,1124.31,Corporate,UPI
+ORD-01133,2025-02-23,West,Technology,Monitor,5,29.34,0.15,124.69,60.91,Consumer,UPI
+ORD-01134,2024-07-04,North,Office Supplies,Stapler,2,11.78,0.1,21.2,5.3,Consumer,Card
+ORD-01135,2025-08-11,South,Office Supplies,Folders,2,9.64,0.2,15.42,7.96,Small Business,Card
+ORD-01136,2024-10-26,West,Office Supplies,Notebook,6,27.67,0.05,157.72,77.55,Consumer,Card
+ORD-01137,2024-07-17,South,Furniture,Desk,1,71.44,0.05,67.87,16.71,Consumer,UPI
+ORD-01138,2024-01-09,North,Technology,Webcam,5,192.97,0.1,868.37,313.28,Consumer,UPI
+ORD-01139,2025-08-09,South,Furniture,Desk,2,662.18,0.15,1125.71,481.74,Small Business,Cash
+ORD-01140,2024-09-21,Central,Furniture,Bookshelf,3,554.23,0.05,1579.56,695.5,Corporate,Card
+ORD-01141,2024-02-28,North,Office Supplies,Printer Paper,2,15.55,0.2,24.88,7.27,Consumer,Card
+ORD-01142,2025-12-15,Central,Furniture,Desk,2,478.36,0.1,861.05,438.4,Consumer,UPI
+ORD-01143,2024-02-27,North,Office Supplies,Notebook,1,32.73,0.0,32.73,12.13,Corporate,UPI
+ORD-01144,2024-04-30,East,Home & Kitchen,Water Bottle,4,71.64,0.15,243.58,55.45,Corporate,Cash
+ORD-01145,2024-07-07,West,Office Supplies,Notebook,3,30.96,0.25,69.66,35.02,Consumer,Cash
+ORD-01146,2024-08-28,Central,Home & Kitchen,Coffee Mug,2,45.48,0.1,81.86,31.17,Corporate,Card
+ORD-01147,2024-01-15,North,Technology,Webcam,2,310.74,0.15,528.26,125.2,Small Business,Card
+ORD-01148,2024-10-01,Central,Technology,Headphones,1,283.73,0.0,283.73,122.03,Corporate,Card
+ORD-01149,2024-07-27,Central,Office Supplies,Stapler,1,40.29,0.25,30.22,15.15,Consumer,Bank Transfer
+ORD-01150,2025-01-09,West,Technology,Webcam,1,231.1,0.1,207.99,50.11,Corporate,Cash
+ORD-01151,2024-03-28,West,Technology,Wireless Mouse,1,237.33,0.15,201.73,103.77,Small Business,UPI
+ORD-01152,2024-05-15,West,Home & Kitchen,Desk Lamp,2,70.06,0.2,112.1,30.53,Corporate,Card
+ORD-01153,2025-05-21,South,Home & Kitchen,Organizer,3,55.55,0.05,158.32,72.13,Consumer,Cash
+ORD-01154,2024-12-20,North,Home & Kitchen,Desk Lamp,4,30.68,0.1,110.45,49.64,Consumer,UPI
+ORD-01155,2024-01-02,North,Technology,Wireless Mouse,5,337.25,0.0,1686.25,799.6,Corporate,Cash
+ORD-01156,2024-05-31,North,Office Supplies,Stapler,1,44.42,0.0,44.42,19.51,Corporate,UPI
+ORD-01157,2024-05-15,Central,Office Supplies,Notebook,1,22.05,0.0,22.05,7.44,Corporate,Bank Transfer
+ORD-01158,2024-11-05,North,Office Supplies,Stapler,3,14.64,0.15,37.33,12.06,Consumer,UPI
+ORD-01159,2024-03-25,South,Home & Kitchen,Desk Lamp,1,32.61,0.0,32.61,11.84,Small Business,Cash
+ORD-01160,2024-11-13,Central,Technology,USB-C Hub,5,348.04,0.05,1653.19,755.46,Consumer,Cash
+ORD-01161,2025-03-07,East,Home & Kitchen,Water Bottle,4,49.97,0.15,169.9,49.84,Consumer,Cash
+ORD-01162,2025-09-22,South,Office Supplies,Pens Pack,2,39.12,0.25,58.68,24.07,Consumer,Cash
+ORD-01163,2025-08-22,North,Office Supplies,Pens Pack,2,37.45,0.05,71.16,18.37,Consumer,Card
+ORD-01164,2025-10-07,North,Technology,Headphones,6,432.65,0.1,2336.31,1111.55,Consumer,Cash
+ORD-01165,2025-05-02,Central,Office Supplies,Folders,4,34.99,0.15,118.97,41.52,Corporate,Card
+ORD-01166,2025-03-26,North,Home & Kitchen,Storage Box,1,95.59,0.0,95.59,21.61,Small Business,UPI
+ORD-01167,2025-06-30,Central,Home & Kitchen,Storage Box,2,54.27,0.05,103.11,52.42,Corporate,Card
+ORD-01168,2025-07-11,West,Office Supplies,Stapler,3,35.1,0.0,105.3,51.76,Consumer,Card
+ORD-01169,2025-12-27,East,Furniture,Standing Desk,6,67.47,0.05,384.58,128.47,Consumer,Card
+ORD-01170,2024-02-27,West,Office Supplies,Notebook,3,35.79,0.1,96.63,49.55,Corporate,Card
+ORD-01171,2024-10-19,Central,Home & Kitchen,Water Bottle,6,54.76,0.1,295.7,139.32,Corporate,Card
+ORD-01172,2025-02-02,East,Furniture,Bookshelf,5,149.15,0.0,745.75,323.57,Consumer,Card
+ORD-01173,2024-08-21,North,Home & Kitchen,Storage Box,3,60.02,0.0,180.06,41.9,Consumer,UPI
+ORD-01174,2025-10-10,Central,Technology,Keyboard,1,116.2,0.1,104.58,49.12,Corporate,Bank Transfer
+ORD-01175,2024-04-13,West,Home & Kitchen,Organizer,4,64.01,0.05,243.24,68.34,Consumer,Cash
+ORD-01176,2024-09-02,West,Office Supplies,Printer Paper,2,25.48,0.2,40.77,18.26,Consumer,Card
+ORD-01177,2025-02-19,East,Home & Kitchen,Water Bottle,1,35.16,0.0,35.16,11.83,Consumer,UPI
+ORD-01178,2024-10-08,North,Technology,Webcam,2,255.08,0.15,433.64,162.16,Consumer,UPI
+ORD-01179,2024-04-30,East,Technology,Webcam,3,22.97,0.05,65.46,15.56,Consumer,Bank Transfer
+ORD-01180,2025-08-06,East,Furniture,Bookshelf,3,691.42,0.15,1763.12,668.4,Consumer,Bank Transfer
+ORD-01181,2024-08-21,Central,Office Supplies,Folders,1,4.54,0.0,4.54,1.33,Corporate,Card
+ORD-01182,2025-02-08,Central,Home & Kitchen,Storage Box,3,35.9,0.0,107.7,36.22,Small Business,Card
+ORD-01183,2024-01-23,North,Furniture,Standing Desk,4,197.58,0.1,711.29,348.74,Corporate,UPI
+ORD-01184,2024-11-13,West,Furniture,Filing Cabinet,2,,0.2,819.15,382.97,Consumer,Card
+ORD-01185,2025-07-24,Central,Furniture,Office Chair,3,439.56,0.05,1252.75,646.98,Consumer,Cash
+ORD-01186,2025-05-06,North,Furniture,Desk,2,55.05,0.1,99.09,27.87,Small Business,UPI
+ORD-01187,2024-10-24,East,Furniture,Desk,3,359.81,0.2,863.54,262.41,Consumer,Cash
+ORD-01188,2025-02-08,West,Office Supplies,Folders,4,26.37,0.0,105.48,36.36,Consumer,Cash
+ORD-01189,2025-01-07,North,Furniture,Filing Cabinet,5,57.51,0.1,258.8,91.06,Small Business,Bank Transfer
+ORD-01190,2024-09-18,West,Furniture,Desk,4,95.3,0.1,343.08,97.81,Consumer,Card
+ORD-01191,2024-03-17,West,Technology,Monitor,1,284.36,0.0,284.36,69.51,Consumer,Cash
+ORD-01192,2024-08-27,East,Furniture,Desk,6,98.25,0.1,530.55,168.47,Consumer,UPI
+ORD-01193,2024-02-11,East,Furniture,Desk,4,299.07,0.05,1136.47,460.26,Small Business,UPI
+ORD-01194,2025-12-26,West,Technology,Wireless Mouse,4,424.3,0.1,1527.48,385.45,Consumer,Cash
+ORD-01195,2025-11-02,South,Technology,Keyboard,6,138.54,0.2,664.99,282.1,Corporate,Cash
+ORD-01196,2024-02-13,Central,Office Supplies,Printer Paper,3,44.6,0.25,100.35,35.2,Small Business,Card
+ORD-01197,2025-07-13,West,Office Supplies,Folders,1,38.18,0.2,30.54,8.59,Consumer,Cash
+ORD-01198,2024-07-11,South,Office Supplies,Folders,3,28.01,0.0,84.03,28.42,Corporate,Cash
+ORD-01199,2025-02-05,East,Home & Kitchen,Organizer,2,95.04,0.05,180.58,85.65,Consumer,UPI
+ORD-01200,2024-03-31,North,Technology,Webcam,2,139.72,0.0,279.44,107.53,Consumer,UPI
+ORD-00011,2024-11-27,South,Technology,Keyboard,4,419.4,0.2,1342.08,361.31,Consumer,UPI
+ORD-00026,2024-04-23,Central,Office Supplies,Printer Paper,1,17.21,0.0,17.21,8.12,Consumer,Cash
+ORD-00061,2025-02-26,Central,Home & Kitchen,Coffee Mug,3,8.05,0.0,24.15,8.6,Consumer,Cash

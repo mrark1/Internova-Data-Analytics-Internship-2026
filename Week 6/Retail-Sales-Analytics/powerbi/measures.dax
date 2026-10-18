@@ -1,0 +1,7 @@
+Total Sales = SUM('cleaned_sales'[Sales])
+Total Profit = SUM('cleaned_sales'[Profit])
+Total Orders = DISTINCTCOUNT('cleaned_sales'[Order_ID])
+Units Sold = SUM('cleaned_sales'[Quantity])
+Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
+Average Order Value = DIVIDE([Total Sales], [Total Orders], 0)
+Average Discount % = AVERAGE('cleaned_sales'[Discount])
